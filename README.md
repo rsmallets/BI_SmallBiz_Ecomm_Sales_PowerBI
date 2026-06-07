@@ -25,7 +25,7 @@ This project simulates a common real-world BI workflow used by data analysts and
 
 The final Power BI dashboard provides an executive-level overview of sales performance across time, product categories, regions, and sales channels.
 
-![Dashboard](06_Documentation/SmallBiz_Ecomm_Sales_Dashboard.pdf)
+![Dashboard](06_Documentation/dashboard.png)
 
 ---
 
