@@ -13,6 +13,27 @@ This project simulates a common real-world BI workflow used by data analysts and
 
 ---
 
+## Simulated Consulting Engagement
+
+**Client Type:** Small E-Commerce Business
+
+**Business Need:** Provide leadership with a centralized view of sales performance, profitability, product trends, regional performance, and channel effectiveness to support data-driven decision making.
+
+**Services Delivered:**
+- Data validation and cleanup
+- SQL data modeling
+- Star schema design
+- Reporting view creation
+- Power BI dashboard development
+
+**Deliverables:**
+- SQL Server data model
+- Reporting layer
+- Executive dashboard
+- Documentation package
+
+---
+
 # Project Highlights
 
 • Designed a dimensional star schema data model for analytical reporting  
