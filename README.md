@@ -90,12 +90,23 @@ Reporting View
 ▼
 Power BI Executive Dashboard
 
-
 ---
 
 # Dataset
 
-The dataset represents simulated e-commerce sales transactions and includes fields such as:
+This project uses a simulated e-commerce sales dataset created specifically for portfolio and analytical modeling purposes.
+
+The dataset was generated using AI-assisted synthetic data generation techniques and designed under my direction to represent realistic e-commerce sales transactions across multiple products, regions, sales channels, payment methods, and order statuses.
+
+The data was intentionally structured to support a complete Business Intelligence workflow including:
+
+- Data validation
+- SQL transformation
+- Dimensional modeling
+- KPI development
+- Dashboard reporting
+
+Fields include:
 
 - OrderID
 - LineID
