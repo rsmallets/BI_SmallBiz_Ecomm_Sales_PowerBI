@@ -1,0 +1,601 @@
+OrderID,LineID,OrderDate,ShipDate,CustomerName,ShipState,Region,SKU,ProductName,Category,Quantity,UnitPrice,UnitDiscount,UnitCOGS,Shipping,Tax,SalesChannel,PaymentMethod,OrderStatus
+SO-2025-10000,1,04/13/2025,2025-04-14,Customer 0,PA,Northeast,SKU0,Product 0,Wellness,4,$95.56,$9.56,$53.13,$1.56,$22.93,Website,Visa,Shipped
+SO-2025-10001,2,08/03/2025,2025-08-07,Customer 1,PA,Northeast,SKU1,Product 1,Pets,3,$51.33,$0.0,$26.7,$6.51,$9.24,Amazon,Visa,Shipped
+SO-2025-10002,3,11/05/2025,2025-11-09,Customer 2,PA,South,SKU2,Product 2,Baby,2,$74.98,$3.75,$33.18,$9.92,$9.0,Instagram,PayPal,Shipped
+SO-2025-10003,4,06/10/2025,2025-06-11,Customer 3,WA,South,SKU3,Product 3,Pets,4,$65.05,$0.0,$31.64,$5.25,$15.61,Amazon,Visa,Returned
+SO-2025-10004,5,06/19/2025,2025-06-21,Customer 4,AZ,Midwest,SKU4,Product 4,Home & Kitchen,4,$36.29,$5.44,$16.21,$7.85,$8.71,Website,PayPal,Returned
+SO-2025-10005,6,02/20/2025,2025-02-21,Customer 5,IL,Midwest,SKU5,Product 5,Baby,4,$56.28,$8.44,$27.77,$6.08,$13.51,Website,Mastercard,Shipped
+SO-2025-10006,7,01/21/2025,2025-01-23,Customer 6,PA,West,SKU6,Product 6,Home & Kitchen,1,$15.85,$2.38,$9.33,$8.08,$0.95,Amazon,Mastercard,Cancelled
+SO-2025-10007,8,09/22/2025,2025-09-26,Customer 7,GA,Northeast,SKU7,Product 7,Apparel,2,$18.79,$2.82,$8.42,$1.22,$2.25,Instagram,Visa,Returned
+SO-2025-10008,9,09/21/2025,2025-09-25,Customer 8,PA,Midwest,SKU8,Product 8,Pets,3,$25.6,$0.0,$11.56,$7.55,$4.61,Amazon,PayPal,Shipped
+SO-2025-10009,10,02/23/2025,2025-02-25,Customer 9,PA,Northeast,SKU9,Product 9,Baby,2,$61.09,$0.0,$36.28,$4.5,$7.33,Amazon,Visa,Shipped
+SO-2025-10010,11,07/21/2025,2025-07-25,Customer 10,PA,West,SKU10,Product 10,Wellness,2,$93.4,$9.34,$54.58,$5.7,$11.21,Amazon,PayPal,Returned
+SO-2025-10011,12,09/09/2025,2025-09-11,Customer 11,NY,Midwest,SKU11,Product 11,Wellness,1,$96.51,$0.0,$46.11,$5.4,$5.79,Website,PayPal,Returned
+SO-2025-10012,13,10/07/2025,2025-10-08,Customer 12,PA,South,SKU12,Product 12,Pets,2,$96.87,$14.53,$49.26,$2.96,$11.62,Instagram,Visa,Shipped
+SO-2025-10013,14,10/28/2025,2025-11-01,Customer 13,CA,West,SKU13,Product 13,Wellness,1,$11.41,$0.0,$6.33,$2.93,$0.68,Instagram,PayPal,Cancelled
+SO-2025-10014,15,03/04/2025,2025-03-05,Customer 14,FL,Midwest,SKU14,Product 14,Home & Kitchen,3,$27.9,$4.18,$15.23,$6.06,$5.02,Website,Visa,Returned
+SO-2025-10015,16,08/19/2025,2025-08-23,Customer 15,OH,Midwest,SKU15,Product 15,Home & Kitchen,2,$20.43,$2.04,$11.65,$3.31,$2.45,Website,PayPal,Cancelled
+SO-2025-10016,17,02/17/2025,2025-02-21,Customer 16,IL,South,SKU16,Product 16,Apparel,3,$37.99,$5.7,$20.26,$6.38,$6.84,Amazon,PayPal,Returned
+SO-2025-10017,18,02/04/2025,2025-02-05,Customer 17,NY,Midwest,SKU17,Product 17,Baby,1,$44.46,$4.45,$24.13,$7.22,$2.67,Website,PayPal,Cancelled
+SO-2025-10018,19,09/12/2025,2025-09-14,Customer 18,WA,Midwest,SKU18,Product 18,Pets,2,$54.44,$0.0,$29.51,$0.25,$6.53,Amazon,PayPal,Returned
+SO-2025-10019,20,06/28/2025,2025-07-02,Customer 19,IL,South,SKU19,Product 19,Baby,3,$90.62,$0.0,$41.95,$6.96,$16.31,Instagram,Mastercard,Shipped
+SO-2025-10020,21,08/19/2025,2025-08-23,Customer 20,NJ,Northeast,SKU20,Product 20,Baby,1,$58.59,$0.0,$26.12,$5.99,$3.52,Instagram,Visa,Cancelled
+SO-2025-10021,22,08/31/2025,2025-09-01,Customer 21,OH,Northeast,SKU21,Product 21,Apparel,2,$89.24,$4.46,$50.12,$1.05,$10.71,Amazon,PayPal,Returned
+SO-2025-10022,23,10/11/2025,2025-10-14,Customer 22,WA,Midwest,SKU22,Product 22,Pets,4,$29.66,$4.45,$17.16,$3.24,$7.12,Website,PayPal,Cancelled
+SO-2025-10023,24,12/14/2025,2025-12-17,Customer 23,PA,Midwest,SKU23,Product 23,Wellness,1,$38.62,$0.0,$17.55,$4.27,$2.32,Website,Mastercard,Returned
+SO-2025-10024,25,04/26/2025,2025-04-29,Customer 24,NY,West,SKU24,Product 24,Home & Kitchen,1,$87.47,$8.75,$37.87,$4.17,$5.25,Instagram,PayPal,Returned
+SO-2025-10025,26,06/14/2025,2025-06-17,Customer 25,WA,South,SKU25,Product 25,Pets,1,$20.79,$3.12,$9.33,$3.23,$1.25,Website,PayPal,Returned
+SO-2025-10026,27,04/06/2025,2025-04-08,Customer 26,WA,South,SKU26,Product 26,Baby,4,$73.27,$0.0,$30.26,$9.62,$17.58,Amazon,Visa,Cancelled
+SO-2025-10027,28,10/22/2025,2025-10-23,Customer 27,WA,Northeast,SKU27,Product 27,Pets,2,$74.1,$0.0,$33.86,$2.67,$8.89,Amazon,Mastercard,Shipped
+SO-2025-10028,29,01/02/2025,2025-01-03,Customer 28,PA,Midwest,SKU28,Product 28,Wellness,2,$46.99,$4.7,$21.41,$6.34,$5.64,Website,Visa,Shipped
+SO-2025-10029,30,05/06/2025,2025-05-10,Customer 29,AZ,Northeast,SKU29,Product 29,Home & Kitchen,2,$57.78,$2.89,$34.5,$5.93,$6.93,Instagram,Mastercard,Shipped
+SO-2025-10030,31,07/22/2025,2025-07-23,Customer 30,WA,South,SKU30,Product 30,Baby,4,$31.39,$3.14,$17.6,$6.32,$7.53,Instagram,Mastercard,Cancelled
+SO-2025-10031,32,07/17/2025,2025-07-18,Customer 31,NY,Midwest,SKU31,Product 31,Pets,2,$58.22,$8.73,$32.58,$3.21,$6.99,Instagram,Mastercard,Shipped
+SO-2025-10032,33,11/22/2025,2025-11-26,Customer 32,WA,South,SKU32,Product 32,Wellness,4,$13.67,$2.05,$6.36,$0.17,$3.28,Amazon,PayPal,Cancelled
+SO-2025-10033,34,05/27/2025,2025-05-31,Customer 33,IL,West,SKU33,Product 33,Pets,4,$68.07,$10.21,$40.03,$3.87,$16.34,Amazon,Visa,Shipped
+SO-2025-10034,35,12/04/2025,2025-12-06,Customer 34,FL,Northeast,SKU34,Product 34,Wellness,4,$22.38,$3.36,$12.24,$9.25,$5.37,Website,PayPal,Cancelled
+SO-2025-10035,36,10/25/2025,2025-10-26,Customer 35,FL,South,SKU35,Product 35,Home & Kitchen,3,$30.57,$4.59,$17.22,$5.17,$5.5,Website,PayPal,Cancelled
+SO-2025-10036,37,01/02/2025,2025-01-06,Customer 36,NJ,South,SKU36,Product 36,Home & Kitchen,1,$18.38,$2.76,$9.4,$6.33,$1.1,Website,Mastercard,Shipped
+SO-2025-10037,38,01/09/2025,2025-01-13,Customer 37,WA,South,SKU37,Product 37,Wellness,1,$41.43,$6.21,$23.59,$8.87,$2.49,Instagram,Mastercard,Shipped
+SO-2025-10038,39,04/30/2025,2025-05-04,Customer 38,WA,South,SKU38,Product 38,Pets,1,$67.78,$6.78,$39.8,$8.99,$4.07,Instagram,Mastercard,Shipped
+SO-2025-10039,40,12/06/2025,2025-12-07,Customer 39,CA,West,SKU39,Product 39,Baby,2,$10.83,$0.54,$6.37,$0.05,$1.3,Website,Visa,Cancelled
+SO-2025-10040,41,12/04/2025,2025-12-08,Customer 40,OH,Midwest,SKU40,Product 40,Apparel,2,$72.27,$10.84,$43.28,$7.12,$8.67,Amazon,Mastercard,Cancelled
+SO-2025-10041,42,10/16/2025,2025-10-20,Customer 41,NJ,Northeast,SKU41,Product 41,Home & Kitchen,2,$39.29,$5.89,$18.6,$8.49,$4.71,Amazon,PayPal,Returned
+SO-2025-10042,43,05/08/2025,2025-05-11,Customer 42,PA,South,SKU42,Product 42,Baby,1,$58.83,$5.88,$27.86,$2.5,$3.53,Website,PayPal,Returned
+SO-2025-10043,44,06/07/2025,2025-06-10,Customer 43,NY,West,SKU43,Product 43,Baby,2,$98.1,$9.81,$56.74,$4.34,$11.77,Amazon,Mastercard,Shipped
+SO-2025-10044,45,10/04/2025,2025-10-05,Customer 44,PA,West,SKU44,Product 44,Pets,2,$68.06,$6.81,$33.93,$2.3,$8.17,Website,Visa,Cancelled
+SO-2025-10045,46,10/31/2025,2025-11-01,Customer 45,WA,Northeast,SKU45,Product 45,Home & Kitchen,3,$61.48,$9.22,$32.53,$9.95,$11.07,Website,Visa,Returned
+SO-2025-10046,47,06/07/2025,2025-06-08,Customer 46,CA,West,SKU46,Product 46,Baby,1,$35.16,$1.76,$16.67,$9.53,$2.11,Amazon,Visa,Shipped
+SO-2025-10047,48,12/15/2025,2025-12-16,Customer 47,OH,Northeast,SKU47,Product 47,Apparel,1,$59.75,$5.98,$35.42,$0.75,$3.58,Amazon,Mastercard,Returned
+SO-2025-10048,49,09/10/2025,2025-09-14,Customer 48,OH,West,SKU48,Product 48,Baby,1,$27.18,$0.0,$12.59,$3.73,$1.63,Website,Mastercard,Shipped
+SO-2025-10049,50,08/11/2025,2025-08-13,Customer 49,NJ,Northeast,SKU49,Product 49,Wellness,2,$72.64,$10.9,$30.08,$6.15,$8.72,Website,Visa,Cancelled
+SO-2025-10050,51,12/08/2025,2025-12-10,Customer 50,CA,South,SKU0,Product 0,Home & Kitchen,3,$22.61,$2.26,$10.38,$7.41,$4.07,Instagram,Visa,Shipped
+SO-2025-10051,52,10/26/2025,2025-10-28,Customer 51,PA,Northeast,SKU1,Product 1,Baby,2,$42.35,$0.0,$19.45,$8.1,$5.08,Amazon,Visa,Cancelled
+SO-2025-10052,53,01/13/2025,2025-01-17,Customer 52,FL,Northeast,SKU2,Product 2,Pets,4,$56.02,$0.0,$29.44,$6.5,$13.44,Website,Mastercard,Cancelled
+SO-2025-10053,54,05/22/2025,2025-05-24,Customer 53,AZ,Midwest,SKU3,Product 3,Wellness,4,$89.8,$8.98,$42.67,$4.38,$21.55,Website,PayPal,Cancelled
+SO-2025-10054,55,12/08/2025,2025-12-10,Customer 54,IL,South,SKU4,Product 4,Wellness,3,$51.9,$5.19,$30.95,$5.91,$9.34,Amazon,Visa,Cancelled
+SO-2025-10055,56,12/08/2025,2025-12-11,Customer 55,GA,West,SKU5,Product 5,Wellness,1,$13.36,$0.67,$6.15,$1.27,$0.8,Website,Visa,Returned
+SO-2025-10056,57,09/21/2025,2025-09-25,Customer 56,AZ,Northeast,SKU6,Product 6,Home & Kitchen,1,$34.44,$5.17,$18.07,$8.42,$2.07,Instagram,Visa,Cancelled
+SO-2025-10057,58,12/16/2025,2025-12-17,Customer 57,GA,South,SKU7,Product 7,Wellness,3,$72.96,$10.94,$39.78,$9.7,$13.13,Website,Visa,Returned
+SO-2025-10058,59,04/16/2025,2025-04-20,Customer 58,GA,South,SKU8,Product 8,Apparel,2,$13.7,$2.05,$6.22,$7.44,$1.64,Instagram,PayPal,Returned
+SO-2025-10059,60,12/12/2025,2025-12-13,Customer 59,AZ,Northeast,SKU9,Product 9,Pets,1,$26.59,$1.33,$15.08,$6.88,$1.6,Amazon,PayPal,Shipped
+SO-2025-10060,61,05/09/2025,2025-05-11,Customer 60,NY,Midwest,SKU10,Product 10,Home & Kitchen,2,$92.37,$9.24,$41.57,$0.94,$11.08,Website,PayPal,Cancelled
+SO-2025-10061,62,03/30/2025,2025-04-02,Customer 61,NY,Midwest,SKU11,Product 11,Wellness,4,$94.12,$0.0,$55.62,$6.57,$22.59,Instagram,Visa,Cancelled
+SO-2025-10062,63,03/10/2025,2025-03-14,Customer 62,IL,South,SKU12,Product 12,Wellness,2,$75.7,$7.57,$34.03,$1.59,$9.08,Instagram,Mastercard,Returned
+SO-2025-10063,64,03/27/2025,2025-03-28,Customer 63,NJ,Northeast,SKU13,Product 13,Apparel,1,$40.77,$6.12,$16.68,$3.11,$2.45,Amazon,Visa,Shipped
+SO-2025-10064,65,07/23/2025,2025-07-27,Customer 64,IL,South,SKU14,Product 14,Wellness,4,$18.81,$2.82,$10.56,$1.73,$4.51,Website,PayPal,Returned
+SO-2025-10065,66,08/10/2025,2025-08-14,Customer 65,WA,West,SKU15,Product 15,Pets,1,$45.87,$2.29,$27.06,$0.45,$2.75,Website,Visa,Shipped
+SO-2025-10066,67,08/11/2025,2025-08-15,Customer 66,NY,Northeast,SKU16,Product 16,Wellness,2,$66.33,$3.32,$33.18,$6.59,$7.96,Instagram,PayPal,Shipped
+SO-2025-10067,68,01/04/2025,2025-01-08,Customer 67,OH,South,SKU17,Product 17,Home & Kitchen,4,$16.35,$1.64,$9.63,$5.86,$3.92,Amazon,Mastercard,Shipped
+SO-2025-10068,69,12/06/2025,2025-12-07,Customer 68,IL,South,SKU18,Product 18,Baby,4,$70.95,$7.1,$37.51,$8.11,$17.03,Instagram,Visa,Returned
+SO-2025-10069,70,04/11/2025,2025-04-14,Customer 69,WA,West,SKU19,Product 19,Pets,4,$44.75,$0.0,$23.73,$1.96,$10.74,Instagram,Visa,Shipped
+SO-2025-10070,71,01/12/2025,2025-01-15,Customer 70,NY,South,SKU20,Product 20,Apparel,3,$43.95,$0.0,$18.41,$3.37,$7.91,Website,Visa,Cancelled
+SO-2025-10071,72,03/31/2025,2025-04-02,Customer 71,IL,West,SKU21,Product 21,Baby,4,$44.69,$2.23,$18.08,$2.61,$10.73,Amazon,Visa,Cancelled
+SO-2025-10072,73,07/15/2025,2025-07-19,Customer 72,PA,West,SKU22,Product 22,Home & Kitchen,2,$72.71,$0.0,$42.7,$7.35,$8.73,Amazon,Visa,Shipped
+SO-2025-10073,74,10/04/2025,2025-10-08,Customer 73,CA,Midwest,SKU23,Product 23,Wellness,1,$35.38,$1.77,$17.15,$8.07,$2.12,Website,Visa,Shipped
+SO-2025-10074,75,06/26/2025,2025-06-30,Customer 74,FL,West,SKU24,Product 24,Wellness,3,$47.14,$2.36,$21.21,$3.41,$8.49,Amazon,Visa,Returned
+SO-2025-10075,76,07/09/2025,2025-07-12,Customer 75,IL,West,SKU25,Product 25,Pets,4,$87.26,$0.0,$46.77,$7.55,$20.94,Amazon,Visa,Shipped
+SO-2025-10076,77,12/27/2025,2025-12-28,Customer 76,GA,South,SKU26,Product 26,Pets,2,$91.23,$4.56,$45.55,$3.2,$10.95,Amazon,Visa,Shipped
+SO-2025-10077,78,07/06/2025,2025-07-09,Customer 77,AZ,West,SKU27,Product 27,Wellness,3,$45.03,$6.75,$26.64,$0.91,$8.11,Instagram,Mastercard,Returned
+SO-2025-10078,79,10/11/2025,2025-10-14,Customer 78,AZ,Northeast,SKU28,Product 28,Apparel,2,$70.91,$10.64,$36.5,$0.83,$8.51,Instagram,Visa,Returned
+SO-2025-10079,80,03/10/2025,2025-03-14,Customer 79,NJ,West,SKU29,Product 29,Home & Kitchen,3,$64.22,$9.63,$34.33,$9.46,$11.56,Instagram,PayPal,Cancelled
+SO-2025-10080,81,05/24/2025,2025-05-27,Customer 80,FL,Midwest,SKU30,Product 30,Apparel,1,$20.21,$0.0,$10.08,$9.96,$1.21,Website,PayPal,Returned
+SO-2025-10081,82,05/02/2025,2025-05-04,Customer 81,AZ,Midwest,SKU31,Product 31,Home & Kitchen,1,$76.33,$0.0,$35.89,$9.69,$4.58,Instagram,Mastercard,Cancelled
+SO-2025-10082,83,01/09/2025,2025-01-12,Customer 82,GA,West,SKU32,Product 32,Wellness,2,$85.33,$0.0,$35.86,$4.26,$10.24,Amazon,PayPal,Returned
+SO-2025-10083,84,06/17/2025,2025-06-18,Customer 83,WA,South,SKU33,Product 33,Baby,2,$45.7,$4.57,$24.74,$5.13,$5.48,Amazon,PayPal,Returned
+SO-2025-10084,85,12/05/2025,2025-12-06,Customer 84,NY,Midwest,SKU34,Product 34,Apparel,4,$43.68,$0.0,$25.16,$9.47,$10.48,Instagram,Visa,Returned
+SO-2025-10085,86,08/05/2025,2025-08-08,Customer 85,GA,South,SKU35,Product 35,Apparel,1,$77.8,$3.89,$42.14,$7.77,$4.67,Instagram,PayPal,Cancelled
+SO-2025-10086,87,07/01/2025,2025-07-03,Customer 86,IL,West,SKU36,Product 36,Apparel,3,$48.18,$2.41,$22.45,$4.93,$8.67,Amazon,PayPal,Shipped
+SO-2025-10087,88,05/21/2025,2025-05-25,Customer 87,WA,West,SKU37,Product 37,Baby,2,$52.18,$2.61,$28.6,$1.18,$6.26,Instagram,Visa,Returned
+SO-2025-10088,89,12/27/2025,2025-12-28,Customer 88,WA,Midwest,SKU38,Product 38,Home & Kitchen,3,$77.14,$0.0,$34.52,$3.75,$13.89,Website,PayPal,Returned
+SO-2025-10089,90,11/08/2025,2025-11-09,Customer 89,FL,South,SKU39,Product 39,Baby,1,$30.12,$1.51,$16.88,$9.7,$1.81,Website,Visa,Shipped
+SO-2025-10090,91,11/13/2025,2025-11-17,Customer 90,CA,Northeast,SKU40,Product 40,Apparel,3,$90.2,$4.51,$52.76,$0.74,$16.24,Amazon,PayPal,Cancelled
+SO-2025-10091,92,08/15/2025,2025-08-16,Customer 91,FL,West,SKU41,Product 41,Apparel,3,$97.24,$4.86,$42.13,$6.96,$17.5,Amazon,Visa,Shipped
+SO-2025-10092,93,01/01/2025,2025-01-02,Customer 92,NJ,Northeast,SKU42,Product 42,Apparel,1,$72.72,$7.27,$42.19,$9.15,$4.36,Website,Visa,Cancelled
+SO-2025-10093,94,11/26/2025,2025-11-30,Customer 93,WA,West,SKU43,Product 43,Home & Kitchen,4,$15.21,$0.76,$7.47,$3.36,$3.65,Instagram,Visa,Shipped
+SO-2025-10094,95,05/02/2025,2025-05-04,Customer 94,CA,South,SKU44,Product 44,Apparel,4,$68.22,$10.23,$32.11,$2.66,$16.37,Instagram,PayPal,Cancelled
+SO-2025-10095,96,12/23/2025,2025-12-24,Customer 95,AZ,Midwest,SKU45,Product 45,Apparel,1,$33.4,$3.34,$18.02,$2.8,$2.0,Instagram,PayPal,Cancelled
+SO-2025-10096,97,07/31/2025,2025-08-03,Customer 96,OH,West,SKU46,Product 46,Baby,1,$71.63,$0.0,$30.56,$8.23,$4.3,Instagram,Mastercard,Returned
+SO-2025-10097,98,03/23/2025,2025-03-25,Customer 97,GA,South,SKU47,Product 47,Wellness,3,$75.31,$7.53,$43.97,$9.33,$13.56,Instagram,Mastercard,Cancelled
+SO-2025-10098,99,08/30/2025,2025-09-01,Customer 98,FL,Midwest,SKU48,Product 48,Apparel,3,$14.07,$1.41,$6.79,$8.11,$2.53,Website,PayPal,Returned
+SO-2025-10099,100,08/12/2025,2025-08-13,Customer 99,FL,Midwest,SKU49,Product 49,Wellness,3,$23.54,$0.0,$12.95,$9.7,$4.24,Amazon,PayPal,Shipped
+SO-2025-10100,101,10/10/2025,2025-10-13,Customer 100,NY,South,SKU0,Product 0,Baby,1,$85.45,$4.27,$34.81,$2.73,$5.13,Amazon,PayPal,Shipped
+SO-2025-10101,102,11/07/2025,2025-11-09,Customer 101,FL,Northeast,SKU1,Product 1,Apparel,2,$72.25,$0.0,$43.35,$9.13,$8.67,Amazon,Mastercard,Cancelled
+SO-2025-10102,103,01/23/2025,2025-01-24,Customer 102,CA,West,SKU2,Product 2,Home & Kitchen,1,$75.35,$3.77,$42.94,$2.41,$4.52,Website,Mastercard,Returned
+SO-2025-10103,104,01/01/2025,2025-01-02,Customer 103,AZ,Northeast,SKU3,Product 3,Pets,3,$34.73,$5.21,$15.48,$7.57,$6.25,Amazon,Mastercard,Shipped
+SO-2025-10104,105,02/03/2025,2025-02-05,Customer 104,IL,Midwest,SKU4,Product 4,Apparel,4,$34.18,$3.42,$18.26,$4.76,$8.2,Amazon,PayPal,Cancelled
+SO-2025-10105,106,09/16/2025,2025-09-17,Customer 105,WA,South,SKU5,Product 5,Apparel,3,$37.7,$0.0,$19.24,$0.88,$6.79,Website,Mastercard,Returned
+SO-2025-10106,107,09/08/2025,2025-09-11,Customer 106,CA,Northeast,SKU6,Product 6,Apparel,1,$63.1,$6.31,$25.6,$7.85,$3.79,Amazon,PayPal,Cancelled
+SO-2025-10107,108,03/07/2025,2025-03-09,Customer 107,OH,South,SKU7,Product 7,Apparel,3,$29.17,$1.46,$15.27,$3.51,$5.25,Website,PayPal,Cancelled
+SO-2025-10108,109,04/08/2025,2025-04-10,Customer 108,NJ,West,SKU8,Product 8,Pets,2,$45.3,$4.53,$18.94,$3.48,$5.44,Instagram,PayPal,Shipped
+SO-2025-10109,110,06/15/2025,2025-06-17,Customer 109,PA,West,SKU9,Product 9,Baby,1,$80.53,$12.08,$37.01,$8.62,$4.83,Amazon,Visa,Shipped
+SO-2025-10110,111,05/13/2025,2025-05-14,Customer 110,GA,West,SKU10,Product 10,Wellness,1,$23.24,$3.49,$13.21,$2.58,$1.39,Website,Mastercard,Returned
+SO-2025-10111,112,03/10/2025,2025-03-13,Customer 111,IL,West,SKU11,Product 11,Wellness,2,$65.87,$3.29,$30.68,$5.8,$7.9,Amazon,Mastercard,Shipped
+SO-2025-10112,113,04/21/2025,2025-04-23,Customer 112,CA,Northeast,SKU12,Product 12,Pets,1,$51.41,$7.71,$22.13,$6.98,$3.08,Website,Mastercard,Shipped
+SO-2025-10113,114,12/26/2025,2025-12-29,Customer 113,PA,Northeast,SKU13,Product 13,Home & Kitchen,4,$41.11,$4.11,$23.63,$6.68,$9.87,Website,Visa,Shipped
+SO-2025-10114,115,03/02/2025,2025-03-06,Customer 114,AZ,South,SKU14,Product 14,Baby,2,$30.15,$0.0,$13.08,$3.48,$3.62,Website,Mastercard,Cancelled
+SO-2025-10115,116,01/22/2025,2025-01-24,Customer 115,PA,South,SKU15,Product 15,Apparel,1,$59.38,$0.0,$29.22,$8.94,$3.56,Instagram,Mastercard,Returned
+SO-2025-10116,117,03/19/2025,2025-03-22,Customer 116,NY,Northeast,SKU16,Product 16,Baby,2,$72.14,$0.0,$30.19,$6.28,$8.66,Amazon,Visa,Cancelled
+SO-2025-10117,118,08/27/2025,2025-08-28,Customer 117,NJ,Midwest,SKU17,Product 17,Pets,4,$88.62,$8.86,$42.14,$2.77,$21.27,Instagram,Mastercard,Returned
+SO-2025-10118,119,09/14/2025,2025-09-17,Customer 118,FL,Northeast,SKU18,Product 18,Pets,4,$77.34,$0.0,$46.19,$3.7,$18.56,Instagram,PayPal,Shipped
+SO-2025-10119,120,08/02/2025,2025-08-04,Customer 119,PA,Midwest,SKU19,Product 19,Pets,2,$65.64,$6.56,$33.23,$7.47,$7.88,Website,PayPal,Shipped
+SO-2025-10120,121,01/14/2025,2025-01-17,Customer 120,IL,West,SKU20,Product 20,Wellness,3,$32.72,$3.27,$17.58,$5.12,$5.89,Website,PayPal,Cancelled
+SO-2025-10121,122,08/27/2025,2025-08-30,Customer 121,IL,Northeast,SKU21,Product 21,Apparel,4,$19.65,$0.98,$9.25,$2.42,$4.72,Amazon,Visa,Returned
+SO-2025-10122,123,04/29/2025,2025-05-02,Customer 122,IL,West,SKU22,Product 22,Baby,1,$26.41,$2.64,$12.27,$0.89,$1.58,Amazon,Visa,Cancelled
+SO-2025-10123,124,05/06/2025,2025-05-10,Customer 123,WA,Midwest,SKU23,Product 23,Pets,4,$30.99,$0.0,$16.08,$3.55,$7.44,Instagram,Mastercard,Returned
+SO-2025-10124,125,08/21/2025,2025-08-23,Customer 124,OH,Midwest,SKU24,Product 24,Wellness,1,$53.16,$7.97,$26.97,$5.58,$3.19,Website,Visa,Returned
+SO-2025-10125,126,08/24/2025,2025-08-26,Customer 125,CA,South,SKU25,Product 25,Apparel,3,$44.09,$0.0,$20.84,$6.08,$7.94,Instagram,PayPal,Cancelled
+SO-2025-10126,127,11/11/2025,2025-11-13,Customer 126,OH,Midwest,SKU26,Product 26,Home & Kitchen,1,$39.73,$0.0,$17.78,$2.25,$2.38,Amazon,Mastercard,Shipped
+SO-2025-10127,128,03/11/2025,2025-03-13,Customer 127,CA,South,SKU27,Product 27,Wellness,3,$53.9,$2.7,$23.57,$8.06,$9.7,Amazon,Mastercard,Returned
+SO-2025-10128,129,06/01/2025,2025-06-05,Customer 128,AZ,Midwest,SKU28,Product 28,Pets,3,$85.81,$8.58,$43.33,$6.97,$15.45,Website,PayPal,Shipped
+SO-2025-10129,130,08/11/2025,2025-08-14,Customer 129,PA,South,SKU29,Product 29,Apparel,2,$45.81,$6.87,$26.73,$8.17,$5.5,Amazon,PayPal,Shipped
+SO-2025-10130,131,04/04/2025,2025-04-07,Customer 130,CA,West,SKU30,Product 30,Apparel,4,$75.06,$3.75,$43.98,$5.35,$18.01,Website,Visa,Returned
+SO-2025-10131,132,01/26/2025,2025-01-28,Customer 131,FL,West,SKU31,Product 31,Baby,3,$85.47,$0.0,$37.39,$7.11,$15.38,Amazon,PayPal,Cancelled
+SO-2025-10132,133,07/31/2025,2025-08-02,Customer 132,IL,West,SKU32,Product 32,Pets,1,$76.26,$11.44,$32.26,$7.68,$4.58,Instagram,Mastercard,Returned
+SO-2025-10133,134,02/07/2025,2025-02-10,Customer 133,WA,Midwest,SKU33,Product 33,Wellness,1,$55.55,$5.56,$27.57,$5.94,$3.33,Instagram,Mastercard,Returned
+SO-2025-10134,135,06/27/2025,2025-06-29,Customer 134,GA,Midwest,SKU34,Product 34,Baby,4,$22.1,$2.21,$11.27,$3.22,$5.3,Website,PayPal,Shipped
+SO-2025-10135,136,05/10/2025,2025-05-11,Customer 135,IL,Northeast,SKU35,Product 35,Pets,4,$32.92,$0.0,$13.19,$5.96,$7.9,Instagram,Visa,Shipped
+SO-2025-10136,137,02/07/2025,2025-02-09,Customer 136,FL,West,SKU36,Product 36,Wellness,3,$81.49,$8.15,$47.75,$7.46,$14.67,Instagram,PayPal,Cancelled
+SO-2025-10137,138,11/30/2025,2025-12-03,Customer 137,AZ,Midwest,SKU37,Product 37,Home & Kitchen,1,$75.78,$0.0,$33.42,$0.66,$4.55,Website,Mastercard,Shipped
+SO-2025-10138,139,10/23/2025,2025-10-26,Customer 138,IL,South,SKU38,Product 38,Wellness,4,$61.7,$9.26,$34.32,$7.95,$14.81,Website,PayPal,Cancelled
+SO-2025-10139,140,09/27/2025,2025-09-30,Customer 139,NY,Midwest,SKU39,Product 39,Home & Kitchen,4,$24.73,$0.0,$10.81,$6.65,$5.94,Website,PayPal,Returned
+SO-2025-10140,141,03/03/2025,2025-03-07,Customer 140,NY,West,SKU40,Product 40,Home & Kitchen,4,$38.46,$1.92,$18.4,$4.52,$9.23,Website,PayPal,Returned
+SO-2025-10141,142,04/14/2025,2025-04-17,Customer 141,CA,West,SKU41,Product 41,Apparel,2,$90.97,$0.0,$41.87,$4.39,$10.92,Amazon,Visa,Shipped
+SO-2025-10142,143,06/02/2025,2025-06-03,Customer 142,GA,West,SKU42,Product 42,Home & Kitchen,1,$90.96,$9.1,$46.06,$9.06,$5.46,Website,Mastercard,Returned
+SO-2025-10143,144,02/08/2025,2025-02-12,Customer 143,PA,Northeast,SKU43,Product 43,Baby,3,$48.84,$4.88,$25.67,$6.94,$8.79,Website,PayPal,Returned
+SO-2025-10144,145,01/15/2025,2025-01-18,Customer 144,PA,South,SKU44,Product 44,Home & Kitchen,3,$65.81,$9.87,$36.08,$7.89,$11.85,Instagram,Mastercard,Cancelled
+SO-2025-10145,146,02/07/2025,2025-02-08,Customer 145,AZ,South,SKU45,Product 45,Pets,1,$38.05,$0.0,$21.14,$0.34,$2.28,Amazon,Mastercard,Returned
+SO-2025-10146,147,03/27/2025,2025-03-29,Customer 146,GA,West,SKU46,Product 46,Wellness,2,$78.62,$7.86,$43.31,$8.21,$9.43,Instagram,PayPal,Shipped
+SO-2025-10147,148,06/08/2025,2025-06-11,Customer 147,AZ,Northeast,SKU47,Product 47,Baby,3,$86.18,$12.93,$44.88,$7.97,$15.51,Instagram,Visa,Returned
+SO-2025-10148,149,09/18/2025,2025-09-21,Customer 148,PA,South,SKU48,Product 48,Baby,1,$30.63,$4.59,$16.98,$6.41,$1.84,Website,PayPal,Shipped
+SO-2025-10149,150,08/31/2025,2025-09-04,Customer 149,NY,Northeast,SKU49,Product 49,Apparel,4,$58.85,$5.89,$30.59,$1.82,$14.12,Amazon,PayPal,Cancelled
+SO-2025-10150,151,11/26/2025,2025-11-28,Customer 150,CA,Midwest,SKU0,Product 0,Home & Kitchen,4,$62.51,$9.38,$30.3,$9.47,$15.0,Website,Mastercard,Cancelled
+SO-2025-10151,152,08/06/2025,2025-08-09,Customer 151,GA,West,SKU1,Product 1,Home & Kitchen,1,$22.52,$1.13,$11.76,$7.26,$1.35,Instagram,Visa,Returned
+SO-2025-10152,153,06/20/2025,2025-06-24,Customer 152,AZ,South,SKU2,Product 2,Apparel,4,$19.2,$2.88,$10.36,$0.23,$4.61,Website,PayPal,Shipped
+SO-2025-10153,154,05/07/2025,2025-05-09,Customer 153,NY,Midwest,SKU3,Product 3,Baby,2,$79.41,$7.94,$41.4,$0.77,$9.53,Website,Visa,Shipped
+SO-2025-10154,155,10/23/2025,2025-10-24,Customer 154,GA,Midwest,SKU4,Product 4,Apparel,1,$93.3,$9.33,$39.61,$9.85,$5.6,Website,Mastercard,Cancelled
+SO-2025-10155,156,04/20/2025,2025-04-22,Customer 155,GA,West,SKU5,Product 5,Wellness,4,$21.22,$0.0,$9.9,$5.19,$5.09,Instagram,PayPal,Returned
+SO-2025-10156,157,05/29/2025,2025-05-30,Customer 156,CA,Northeast,SKU6,Product 6,Pets,3,$14.93,$0.0,$6.59,$0.05,$2.69,Website,Mastercard,Cancelled
+SO-2025-10157,158,10/18/2025,2025-10-20,Customer 157,IL,Midwest,SKU7,Product 7,Home & Kitchen,3,$47.31,$2.37,$27.63,$4.66,$8.52,Website,Visa,Cancelled
+SO-2025-10158,159,12/13/2025,2025-12-16,Customer 158,AZ,Northeast,SKU8,Product 8,Wellness,1,$62.84,$6.28,$30.82,$2.48,$3.77,Instagram,Visa,Shipped
+SO-2025-10159,160,01/25/2025,2025-01-26,Customer 159,CA,West,SKU9,Product 9,Wellness,3,$24.9,$0.0,$14.52,$7.8,$4.48,Website,PayPal,Returned
+SO-2025-10160,161,05/30/2025,2025-05-31,Customer 160,CA,Northeast,SKU10,Product 10,Apparel,2,$11.18,$0.0,$5.62,$9.61,$1.34,Amazon,Mastercard,Returned
+SO-2025-10161,162,06/26/2025,2025-06-30,Customer 161,IL,Northeast,SKU11,Product 11,Baby,4,$47.32,$7.1,$23.99,$5.02,$11.36,Amazon,Mastercard,Cancelled
+SO-2025-10162,163,09/14/2025,2025-09-18,Customer 162,CA,Midwest,SKU12,Product 12,Apparel,4,$16.04,$1.6,$7.79,$8.98,$3.85,Instagram,Visa,Returned
+SO-2025-10163,164,02/01/2025,2025-02-05,Customer 163,PA,Midwest,SKU13,Product 13,Wellness,2,$27.16,$0.0,$12.92,$5.65,$3.26,Amazon,Visa,Returned
+SO-2025-10164,165,01/18/2025,2025-01-20,Customer 164,WA,Northeast,SKU14,Product 14,Pets,1,$79.8,$7.98,$40.34,$4.41,$4.79,Amazon,Mastercard,Shipped
+SO-2025-10165,166,04/24/2025,2025-04-28,Customer 165,FL,Midwest,SKU15,Product 15,Pets,2,$60.37,$6.04,$25.39,$8.62,$7.24,Amazon,PayPal,Returned
+SO-2025-10166,167,12/25/2025,2025-12-27,Customer 166,NJ,South,SKU16,Product 16,Wellness,3,$43.6,$2.18,$25.27,$4.09,$7.85,Instagram,Visa,Returned
+SO-2025-10167,168,03/28/2025,2025-04-01,Customer 167,CA,West,SKU17,Product 17,Home & Kitchen,3,$24.05,$1.2,$13.79,$0.27,$4.33,Website,PayPal,Cancelled
+SO-2025-10168,169,09/04/2025,2025-09-08,Customer 168,FL,South,SKU18,Product 18,Wellness,3,$30.8,$3.08,$15.43,$1.04,$5.54,Instagram,Visa,Cancelled
+SO-2025-10169,170,08/27/2025,2025-08-31,Customer 169,OH,Northeast,SKU19,Product 19,Baby,1,$26.07,$0.0,$13.33,$0.99,$1.56,Website,Mastercard,Shipped
+SO-2025-10170,171,04/06/2025,2025-04-10,Customer 170,NY,West,SKU20,Product 20,Wellness,4,$75.0,$11.25,$42.1,$3.97,$18.0,Instagram,PayPal,Returned
+SO-2025-10171,172,06/14/2025,2025-06-16,Customer 171,OH,West,SKU21,Product 21,Apparel,2,$28.45,$2.84,$13.22,$0.13,$3.41,Website,Mastercard,Cancelled
+SO-2025-10172,173,09/20/2025,2025-09-23,Customer 172,NY,West,SKU22,Product 22,Baby,1,$28.71,$2.87,$12.19,$5.83,$1.72,Instagram,PayPal,Cancelled
+SO-2025-10173,174,07/07/2025,2025-07-10,Customer 173,NY,Northeast,SKU23,Product 23,Wellness,2,$90.34,$9.03,$47.42,$2.59,$10.84,Amazon,Mastercard,Cancelled
+SO-2025-10174,175,07/14/2025,2025-07-16,Customer 174,GA,Northeast,SKU24,Product 24,Wellness,3,$13.08,$1.96,$6.86,$7.74,$2.35,Instagram,Mastercard,Cancelled
+SO-2025-10175,176,08/14/2025,2025-08-18,Customer 175,AZ,West,SKU25,Product 25,Baby,1,$36.5,$5.48,$21.71,$1.4,$2.19,Amazon,PayPal,Returned
+SO-2025-10176,177,07/21/2025,2025-07-25,Customer 176,IL,Midwest,SKU26,Product 26,Pets,2,$53.87,$2.69,$26.62,$4.25,$6.46,Instagram,Mastercard,Returned
+SO-2025-10177,178,04/25/2025,2025-04-26,Customer 177,IL,South,SKU27,Product 27,Baby,1,$34.18,$5.13,$18.45,$2.58,$2.05,Instagram,Mastercard,Shipped
+SO-2025-10178,179,09/03/2025,2025-09-04,Customer 178,OH,Northeast,SKU28,Product 28,Wellness,2,$85.14,$12.77,$36.31,$1.72,$10.22,Instagram,Mastercard,Cancelled
+SO-2025-10179,180,08/03/2025,2025-08-05,Customer 179,OH,West,SKU29,Product 29,Baby,1,$11.66,$0.58,$5.9,$5.77,$0.7,Amazon,Visa,Shipped
+SO-2025-10180,181,02/03/2025,2025-02-06,Customer 180,WA,Midwest,SKU30,Product 30,Home & Kitchen,1,$46.47,$2.32,$26.3,$1.07,$2.79,Amazon,Visa,Cancelled
+SO-2025-10181,182,12/08/2025,2025-12-12,Customer 181,CA,Northeast,SKU31,Product 31,Baby,1,$33.73,$3.37,$19.39,$2.51,$2.02,Amazon,PayPal,Shipped
+SO-2025-10182,183,08/25/2025,2025-08-27,Customer 182,PA,West,SKU32,Product 32,Wellness,1,$54.48,$2.72,$31.76,$4.04,$3.27,Amazon,PayPal,Cancelled
+SO-2025-10183,184,07/09/2025,2025-07-12,Customer 183,OH,Northeast,SKU33,Product 33,Wellness,2,$47.98,$2.4,$20.79,$1.84,$5.76,Instagram,PayPal,Returned
+SO-2025-10184,185,06/30/2025,2025-07-04,Customer 184,IL,West,SKU34,Product 34,Pets,4,$79.39,$0.0,$37.94,$4.37,$19.05,Website,PayPal,Shipped
+SO-2025-10185,186,06/13/2025,2025-06-15,Customer 185,FL,Midwest,SKU35,Product 35,Baby,1,$74.94,$11.24,$38.47,$3.97,$4.5,Instagram,Visa,Returned
+SO-2025-10186,187,06/01/2025,2025-06-05,Customer 186,PA,Northeast,SKU36,Product 36,Apparel,2,$22.15,$3.32,$9.81,$5.4,$2.66,Website,PayPal,Returned
+SO-2025-10187,188,08/15/2025,2025-08-18,Customer 187,NJ,Northeast,SKU37,Product 37,Wellness,4,$14.63,$0.73,$8.65,$3.34,$3.51,Website,Mastercard,Returned
+SO-2025-10188,189,06/03/2025,2025-06-04,Customer 188,IL,West,SKU38,Product 38,Baby,2,$19.59,$0.0,$9.21,$4.95,$2.35,Website,PayPal,Returned
+SO-2025-10189,190,04/14/2025,2025-04-15,Customer 189,AZ,South,SKU39,Product 39,Baby,2,$51.37,$5.14,$28.96,$0.02,$6.16,Website,Visa,Cancelled
+SO-2025-10190,191,04/12/2025,2025-04-15,Customer 190,OH,South,SKU40,Product 40,Apparel,2,$19.28,$0.0,$8.07,$9.62,$2.31,Instagram,Visa,Shipped
+SO-2025-10191,192,01/17/2025,2025-01-19,Customer 191,CA,Midwest,SKU41,Product 41,Apparel,2,$72.15,$0.0,$31.53,$9.58,$8.66,Amazon,PayPal,Shipped
+SO-2025-10192,193,12/05/2025,2025-12-07,Customer 192,CA,Midwest,SKU42,Product 42,Pets,4,$67.51,$0.0,$35.9,$6.37,$16.2,Website,Visa,Returned
+SO-2025-10193,194,07/19/2025,2025-07-21,Customer 193,IL,Midwest,SKU43,Product 43,Apparel,1,$91.3,$13.69,$40.56,$0.52,$5.48,Instagram,Mastercard,Returned
+SO-2025-10194,195,01/26/2025,2025-01-29,Customer 194,GA,South,SKU44,Product 44,Apparel,3,$13.97,$2.1,$8.17,$5.56,$2.51,Amazon,Visa,Shipped
+SO-2025-10195,196,03/27/2025,2025-03-28,Customer 195,OH,Midwest,SKU45,Product 45,Pets,2,$38.16,$3.82,$20.59,$1.93,$4.58,Amazon,PayPal,Returned
+SO-2025-10196,197,11/24/2025,2025-11-26,Customer 196,NJ,West,SKU46,Product 46,Wellness,2,$47.96,$0.0,$23.73,$0.55,$5.76,Website,PayPal,Cancelled
+SO-2025-10197,198,04/13/2025,2025-04-17,Customer 197,NJ,West,SKU47,Product 47,Wellness,1,$68.52,$10.28,$30.56,$4.81,$4.11,Website,PayPal,Returned
+SO-2025-10198,199,05/11/2025,2025-05-15,Customer 198,FL,South,SKU48,Product 48,Pets,1,$57.72,$2.89,$31.45,$5.72,$3.46,Amazon,PayPal,Cancelled
+SO-2025-10199,200,01/04/2025,2025-01-08,Customer 199,NY,Northeast,SKU49,Product 49,Home & Kitchen,1,$69.55,$0.0,$36.53,$4.27,$4.17,Amazon,Mastercard,Shipped
+SO-2025-10200,201,04/18/2025,2025-04-20,Customer 200,AZ,Midwest,SKU0,Product 0,Baby,2,$47.58,$4.76,$27.31,$0.0,$5.71,Website,Mastercard,Returned
+SO-2025-10201,202,09/26/2025,2025-09-29,Customer 201,OH,South,SKU1,Product 1,Baby,1,$44.56,$6.68,$24.94,$0.09,$2.67,Website,PayPal,Returned
+SO-2025-10202,203,01/29/2025,2025-01-30,Customer 202,WA,Midwest,SKU2,Product 2,Baby,2,$17.97,$0.9,$8.91,$5.81,$2.16,Amazon,Mastercard,Returned
+SO-2025-10203,204,08/24/2025,2025-08-27,Customer 203,IL,Northeast,SKU3,Product 3,Apparel,3,$45.85,$2.29,$22.17,$5.23,$8.25,Website,Visa,Shipped
+SO-2025-10204,205,03/06/2025,2025-03-08,Customer 204,OH,Midwest,SKU4,Product 4,Home & Kitchen,2,$10.3,$0.0,$4.85,$8.53,$1.24,Amazon,Visa,Returned
+SO-2025-10205,206,05/26/2025,2025-05-28,Customer 205,WA,Northeast,SKU5,Product 5,Apparel,2,$63.02,$9.45,$25.43,$0.45,$7.56,Amazon,PayPal,Cancelled
+SO-2025-10206,207,11/01/2025,2025-11-02,Customer 206,GA,West,SKU6,Product 6,Wellness,1,$71.17,$10.68,$42.08,$7.86,$4.27,Website,PayPal,Shipped
+SO-2025-10207,208,07/17/2025,2025-07-19,Customer 207,CA,Northeast,SKU7,Product 7,Pets,3,$89.12,$4.46,$46.36,$6.13,$16.04,Instagram,Mastercard,Cancelled
+SO-2025-10208,209,06/02/2025,2025-06-03,Customer 208,FL,Northeast,SKU8,Product 8,Apparel,3,$99.21,$9.92,$47.65,$6.5,$17.86,Instagram,Mastercard,Cancelled
+SO-2025-10209,210,08/31/2025,2025-09-02,Customer 209,OH,Northeast,SKU9,Product 9,Baby,1,$20.83,$2.08,$9.07,$0.37,$1.25,Website,Visa,Returned
+SO-2025-10210,211,09/16/2025,2025-09-19,Customer 210,CA,Northeast,SKU10,Product 10,Home & Kitchen,4,$41.51,$0.0,$21.83,$8.84,$9.96,Website,PayPal,Shipped
+SO-2025-10211,212,04/09/2025,2025-04-12,Customer 211,OH,West,SKU11,Product 11,Wellness,4,$99.54,$0.0,$45.0,$7.58,$23.89,Instagram,PayPal,Cancelled
+SO-2025-10212,213,03/03/2025,2025-03-04,Customer 212,WA,West,SKU12,Product 12,Pets,1,$23.85,$3.58,$11.75,$2.24,$1.43,Instagram,PayPal,Shipped
+SO-2025-10213,214,03/30/2025,2025-03-31,Customer 213,OH,Northeast,SKU13,Product 13,Apparel,1,$90.54,$0.0,$37.87,$3.91,$5.43,Instagram,Mastercard,Returned
+SO-2025-10214,215,05/03/2025,2025-05-07,Customer 214,NJ,Midwest,SKU14,Product 14,Baby,4,$52.9,$5.29,$31.27,$0.35,$12.7,Amazon,Mastercard,Shipped
+SO-2025-10215,216,02/09/2025,2025-02-13,Customer 215,IL,Northeast,SKU15,Product 15,Wellness,1,$59.58,$5.96,$27.19,$3.73,$3.57,Instagram,PayPal,Returned
+SO-2025-10216,217,11/24/2025,2025-11-25,Customer 216,NJ,West,SKU16,Product 16,Wellness,3,$75.11,$3.76,$38.04,$2.2,$13.52,Website,Visa,Returned
+SO-2025-10217,218,10/11/2025,2025-10-15,Customer 217,PA,South,SKU17,Product 17,Pets,1,$99.23,$4.96,$49.52,$5.16,$5.95,Website,Visa,Returned
+SO-2025-10218,219,04/25/2025,2025-04-28,Customer 218,FL,South,SKU18,Product 18,Pets,2,$61.42,$9.21,$32.9,$8.64,$7.37,Website,Visa,Cancelled
+SO-2025-10219,220,10/16/2025,2025-10-17,Customer 219,FL,South,SKU19,Product 19,Baby,2,$56.91,$8.54,$30.26,$1.57,$6.83,Amazon,Visa,Cancelled
+SO-2025-10220,221,10/31/2025,2025-11-02,Customer 220,NJ,Midwest,SKU20,Product 20,Baby,1,$40.06,$0.0,$21.61,$1.06,$2.4,Website,PayPal,Returned
+SO-2025-10221,222,06/04/2025,2025-06-06,Customer 221,NY,Northeast,SKU21,Product 21,Home & Kitchen,2,$27.03,$0.0,$15.57,$4.65,$3.24,Website,Visa,Returned
+SO-2025-10222,223,01/31/2025,2025-02-02,Customer 222,FL,Midwest,SKU22,Product 22,Home & Kitchen,3,$10.46,$1.57,$4.89,$9.09,$1.88,Website,Mastercard,Shipped
+SO-2025-10223,224,03/23/2025,2025-03-26,Customer 223,NY,West,SKU23,Product 23,Pets,4,$60.06,$0.0,$30.12,$1.93,$14.41,Website,PayPal,Shipped
+SO-2025-10224,225,01/13/2025,2025-01-16,Customer 224,CA,West,SKU24,Product 24,Wellness,2,$39.38,$0.0,$20.73,$3.77,$4.73,Instagram,PayPal,Shipped
+SO-2025-10225,226,12/10/2025,2025-12-13,Customer 225,CA,South,SKU25,Product 25,Pets,1,$80.19,$4.01,$36.62,$5.41,$4.81,Website,PayPal,Cancelled
+SO-2025-10226,227,08/12/2025,2025-08-13,Customer 226,WA,Midwest,SKU26,Product 26,Apparel,2,$40.77,$6.12,$17.77,$1.03,$4.89,Instagram,Visa,Shipped
+SO-2025-10227,228,07/15/2025,2025-07-19,Customer 227,CA,West,SKU27,Product 27,Apparel,4,$71.91,$3.6,$42.39,$7.08,$17.26,Instagram,Visa,Returned
+SO-2025-10228,229,07/12/2025,2025-07-14,Customer 228,CA,Northeast,SKU28,Product 28,Home & Kitchen,2,$65.88,$6.59,$37.58,$9.73,$7.91,Amazon,PayPal,Shipped
+SO-2025-10229,230,10/12/2025,2025-10-16,Customer 229,PA,South,SKU29,Product 29,Wellness,4,$77.47,$7.75,$40.2,$0.25,$18.59,Instagram,PayPal,Cancelled
+SO-2025-10230,231,02/02/2025,2025-02-04,Customer 230,WA,Midwest,SKU30,Product 30,Apparel,2,$43.47,$6.52,$24.09,$0.01,$5.22,Instagram,PayPal,Returned
+SO-2025-10231,232,08/14/2025,2025-08-17,Customer 231,CA,West,SKU31,Product 31,Home & Kitchen,1,$94.99,$9.5,$46.57,$5.27,$5.7,Instagram,Visa,Cancelled
+SO-2025-10232,233,10/12/2025,2025-10-14,Customer 232,WA,South,SKU32,Product 32,Apparel,1,$36.85,$5.53,$15.35,$2.3,$2.21,Amazon,Visa,Returned
+SO-2025-10233,234,01/27/2025,2025-01-28,Customer 233,IL,West,SKU33,Product 33,Apparel,3,$95.58,$14.34,$38.83,$9.44,$17.2,Amazon,PayPal,Shipped
+SO-2025-10234,235,12/23/2025,2025-12-26,Customer 234,IL,West,SKU34,Product 34,Wellness,3,$96.81,$9.68,$44.03,$3.12,$17.43,Instagram,Mastercard,Returned
+SO-2025-10235,236,02/27/2025,2025-03-03,Customer 235,NY,West,SKU35,Product 35,Home & Kitchen,4,$75.2,$3.76,$33.29,$8.68,$18.05,Website,Visa,Shipped
+SO-2025-10236,237,10/07/2025,2025-10-11,Customer 236,OH,Northeast,SKU36,Product 36,Wellness,4,$60.65,$9.1,$30.0,$1.59,$14.56,Website,PayPal,Shipped
+SO-2025-10237,238,05/25/2025,2025-05-27,Customer 237,AZ,Midwest,SKU37,Product 37,Home & Kitchen,1,$79.89,$7.99,$39.21,$7.61,$4.79,Amazon,Mastercard,Cancelled
+SO-2025-10238,239,12/15/2025,2025-12-18,Customer 238,OH,Northeast,SKU38,Product 38,Wellness,4,$36.48,$5.47,$21.31,$1.85,$8.76,Instagram,Mastercard,Returned
+SO-2025-10239,240,01/15/2025,2025-01-19,Customer 239,PA,South,SKU39,Product 39,Baby,1,$10.11,$1.01,$4.3,$2.48,$0.61,Instagram,Mastercard,Shipped
+SO-2025-10240,241,01/09/2025,2025-01-11,Customer 240,PA,Midwest,SKU40,Product 40,Pets,2,$30.3,$4.54,$12.51,$3.26,$3.64,Amazon,Visa,Returned
+SO-2025-10241,242,12/10/2025,2025-12-11,Customer 241,AZ,South,SKU41,Product 41,Apparel,4,$37.93,$0.0,$16.31,$0.72,$9.1,Instagram,PayPal,Cancelled
+SO-2025-10242,243,11/16/2025,2025-11-19,Customer 242,WA,Northeast,SKU42,Product 42,Pets,2,$53.19,$5.32,$28.96,$6.95,$6.38,Instagram,PayPal,Returned
+SO-2025-10243,244,10/16/2025,2025-10-19,Customer 243,NJ,South,SKU43,Product 43,Wellness,4,$80.19,$12.03,$43.69,$1.05,$19.25,Instagram,Mastercard,Returned
+SO-2025-10244,245,03/17/2025,2025-03-19,Customer 244,IL,Northeast,SKU44,Product 44,Baby,1,$61.38,$6.14,$30.68,$2.1,$3.68,Website,PayPal,Cancelled
+SO-2025-10245,246,06/10/2025,2025-06-12,Customer 245,OH,Northeast,SKU45,Product 45,Baby,2,$79.82,$3.99,$37.14,$5.34,$9.58,Instagram,PayPal,Shipped
+SO-2025-10246,247,08/21/2025,2025-08-23,Customer 246,PA,South,SKU46,Product 46,Apparel,1,$17.43,$0.0,$7.25,$3.22,$1.05,Amazon,Mastercard,Returned
+SO-2025-10247,248,06/15/2025,2025-06-17,Customer 247,NY,Midwest,SKU47,Product 47,Wellness,3,$28.08,$1.4,$15.73,$0.41,$5.05,Instagram,Mastercard,Cancelled
+SO-2025-10248,249,11/01/2025,2025-11-02,Customer 248,AZ,Northeast,SKU48,Product 48,Home & Kitchen,4,$67.28,$6.73,$38.97,$9.36,$16.15,Website,Visa,Cancelled
+SO-2025-10249,250,12/25/2025,2025-12-29,Customer 249,NJ,Northeast,SKU49,Product 49,Wellness,3,$58.72,$2.94,$34.47,$7.14,$10.57,Amazon,PayPal,Returned
+SO-2025-10250,251,11/14/2025,2025-11-17,Customer 250,CA,West,SKU0,Product 0,Apparel,4,$40.55,$4.06,$20.15,$8.95,$9.73,Amazon,Visa,Cancelled
+SO-2025-10251,252,11/10/2025,2025-11-14,Customer 251,PA,Midwest,SKU1,Product 1,Apparel,2,$50.71,$5.07,$20.7,$7.32,$6.09,Website,Mastercard,Cancelled
+SO-2025-10252,253,01/12/2025,2025-01-14,Customer 252,AZ,West,SKU2,Product 2,Pets,3,$68.53,$0.0,$39.36,$3.29,$12.34,Instagram,Mastercard,Shipped
+SO-2025-10253,254,08/26/2025,2025-08-29,Customer 253,FL,West,SKU3,Product 3,Pets,4,$76.99,$0.0,$42.96,$0.44,$18.48,Website,Visa,Shipped
+SO-2025-10254,255,10/27/2025,2025-10-31,Customer 254,GA,South,SKU4,Product 4,Baby,2,$11.88,$1.19,$5.29,$5.42,$1.43,Amazon,Mastercard,Returned
+SO-2025-10255,256,02/28/2025,2025-03-01,Customer 255,PA,Northeast,SKU5,Product 5,Apparel,3,$17.34,$1.73,$9.3,$4.18,$3.12,Instagram,Mastercard,Shipped
+SO-2025-10256,257,07/26/2025,2025-07-29,Customer 256,NY,West,SKU6,Product 6,Pets,1,$85.64,$0.0,$49.13,$4.16,$5.14,Instagram,Visa,Cancelled
+SO-2025-10257,258,01/24/2025,2025-01-28,Customer 257,WA,Midwest,SKU7,Product 7,Home & Kitchen,4,$66.59,$9.99,$31.58,$5.05,$15.98,Amazon,PayPal,Shipped
+SO-2025-10258,259,02/19/2025,2025-02-20,Customer 258,OH,Northeast,SKU8,Product 8,Apparel,1,$56.26,$0.0,$27.44,$3.96,$3.38,Website,Mastercard,Cancelled
+SO-2025-10259,260,08/16/2025,2025-08-18,Customer 259,OH,West,SKU9,Product 9,Apparel,2,$63.8,$9.57,$30.9,$9.92,$7.66,Amazon,Visa,Returned
+SO-2025-10260,261,07/05/2025,2025-07-09,Customer 260,NJ,Midwest,SKU10,Product 10,Baby,2,$42.32,$4.23,$22.2,$8.36,$5.08,Instagram,Mastercard,Cancelled
+SO-2025-10261,262,08/13/2025,2025-08-16,Customer 261,IL,Northeast,SKU11,Product 11,Apparel,3,$79.84,$11.98,$46.45,$6.33,$14.37,Website,Visa,Returned
+SO-2025-10262,263,01/14/2025,2025-01-15,Customer 262,AZ,West,SKU12,Product 12,Pets,2,$56.14,$0.0,$32.05,$4.37,$6.74,Website,Mastercard,Returned
+SO-2025-10263,264,11/12/2025,2025-11-16,Customer 263,IL,South,SKU13,Product 13,Wellness,1,$50.08,$7.51,$25.84,$5.93,$3.0,Website,Visa,Cancelled
+SO-2025-10264,265,11/22/2025,2025-11-25,Customer 264,PA,South,SKU14,Product 14,Wellness,1,$45.2,$0.0,$21.69,$6.57,$2.71,Amazon,PayPal,Cancelled
+SO-2025-10265,266,06/13/2025,2025-06-16,Customer 265,NY,South,SKU15,Product 15,Home & Kitchen,1,$31.33,$3.13,$14.01,$4.42,$1.88,Website,Mastercard,Shipped
+SO-2025-10266,267,03/21/2025,2025-03-22,Customer 266,NY,South,SKU16,Product 16,Home & Kitchen,2,$50.39,$7.56,$28.51,$4.49,$6.05,Website,PayPal,Returned
+SO-2025-10267,268,09/21/2025,2025-09-25,Customer 267,CA,West,SKU17,Product 17,Pets,3,$95.37,$0.0,$41.33,$3.79,$17.17,Instagram,PayPal,Cancelled
+SO-2025-10268,269,04/17/2025,2025-04-18,Customer 268,IL,Midwest,SKU18,Product 18,Baby,1,$42.11,$6.32,$20.84,$7.05,$2.53,Amazon,Visa,Returned
+SO-2025-10269,270,11/08/2025,2025-11-09,Customer 269,CA,Midwest,SKU19,Product 19,Wellness,4,$87.78,$4.39,$38.73,$0.34,$21.07,Instagram,Visa,Returned
+SO-2025-10270,271,11/30/2025,2025-12-01,Customer 270,WA,Northeast,SKU20,Product 20,Wellness,2,$21.07,$0.0,$12.37,$6.4,$2.53,Amazon,Mastercard,Shipped
+SO-2025-10271,272,02/04/2025,2025-02-05,Customer 271,NJ,Midwest,SKU21,Product 21,Wellness,2,$26.2,$2.62,$12.14,$5.85,$3.14,Website,PayPal,Shipped
+SO-2025-10272,273,01/12/2025,2025-01-15,Customer 272,AZ,West,SKU22,Product 22,Apparel,2,$45.76,$2.29,$27.14,$0.17,$5.49,Instagram,PayPal,Cancelled
+SO-2025-10273,274,08/05/2025,2025-08-08,Customer 273,NJ,West,SKU23,Product 23,Pets,2,$97.58,$9.76,$47.91,$5.22,$11.71,Instagram,Visa,Returned
+SO-2025-10274,275,10/21/2025,2025-10-25,Customer 274,AZ,West,SKU24,Product 24,Pets,4,$21.32,$1.07,$9.84,$9.4,$5.12,Website,Visa,Returned
+SO-2025-10275,276,01/08/2025,2025-01-12,Customer 275,PA,Midwest,SKU25,Product 25,Home & Kitchen,2,$26.95,$2.7,$14.41,$2.35,$3.23,Instagram,PayPal,Shipped
+SO-2025-10276,277,03/27/2025,2025-03-30,Customer 276,NJ,South,SKU26,Product 26,Apparel,3,$72.34,$7.23,$43.09,$6.83,$13.02,Amazon,PayPal,Cancelled
+SO-2025-10277,278,04/24/2025,2025-04-25,Customer 277,AZ,South,SKU27,Product 27,Wellness,2,$65.61,$9.84,$37.59,$0.3,$7.87,Amazon,Mastercard,Returned
+SO-2025-10278,279,11/24/2025,2025-11-27,Customer 278,OH,Midwest,SKU28,Product 28,Pets,1,$72.06,$0.0,$37.48,$6.59,$4.32,Website,PayPal,Cancelled
+SO-2025-10279,280,02/22/2025,2025-02-24,Customer 279,IL,Northeast,SKU29,Product 29,Wellness,4,$68.61,$3.43,$32.23,$9.99,$16.47,Website,PayPal,Cancelled
+SO-2025-10280,281,03/04/2025,2025-03-05,Customer 280,OH,Midwest,SKU30,Product 30,Wellness,1,$87.98,$0.0,$50.51,$0.9,$5.28,Instagram,PayPal,Cancelled
+SO-2025-10281,282,06/08/2025,2025-06-10,Customer 281,NY,Midwest,SKU31,Product 31,Home & Kitchen,1,$19.82,$0.99,$9.53,$9.26,$1.19,Instagram,PayPal,Shipped
+SO-2025-10282,283,01/19/2025,2025-01-22,Customer 282,IL,Midwest,SKU32,Product 32,Apparel,2,$91.12,$0.0,$50.99,$8.69,$10.93,Website,PayPal,Cancelled
+SO-2025-10283,284,05/09/2025,2025-05-12,Customer 283,PA,Midwest,SKU33,Product 33,Pets,4,$36.72,$3.67,$14.73,$6.3,$8.81,Amazon,PayPal,Returned
+SO-2025-10284,285,07/18/2025,2025-07-19,Customer 284,NY,Northeast,SKU34,Product 34,Apparel,3,$72.59,$10.89,$37.0,$2.38,$13.07,Instagram,Mastercard,Shipped
+SO-2025-10285,286,10/18/2025,2025-10-20,Customer 285,IL,Midwest,SKU35,Product 35,Baby,4,$11.32,$1.13,$5.89,$6.43,$2.72,Website,Mastercard,Returned
+SO-2025-10286,287,09/22/2025,2025-09-24,Customer 286,FL,South,SKU36,Product 36,Baby,3,$58.81,$8.82,$29.63,$9.14,$10.59,Website,Visa,Returned
+SO-2025-10287,288,08/09/2025,2025-08-10,Customer 287,PA,Northeast,SKU37,Product 37,Wellness,2,$19.8,$0.0,$9.5,$2.46,$2.38,Instagram,Visa,Cancelled
+SO-2025-10288,289,08/16/2025,2025-08-18,Customer 288,OH,South,SKU38,Product 38,Baby,3,$45.49,$4.55,$25.59,$7.15,$8.19,Website,PayPal,Cancelled
+SO-2025-10289,290,01/21/2025,2025-01-25,Customer 289,NY,West,SKU39,Product 39,Home & Kitchen,3,$48.78,$7.32,$25.83,$9.55,$8.78,Amazon,Mastercard,Cancelled
+SO-2025-10290,291,10/19/2025,2025-10-21,Customer 290,FL,West,SKU40,Product 40,Pets,3,$44.21,$6.63,$25.95,$1.95,$7.96,Amazon,PayPal,Returned
+SO-2025-10291,292,11/30/2025,2025-12-03,Customer 291,FL,South,SKU41,Product 41,Wellness,1,$65.56,$0.0,$29.96,$9.3,$3.93,Amazon,Visa,Returned
+SO-2025-10292,293,06/05/2025,2025-06-07,Customer 292,AZ,West,SKU42,Product 42,Apparel,3,$62.28,$3.11,$32.51,$4.0,$11.21,Amazon,Mastercard,Cancelled
+SO-2025-10293,294,03/18/2025,2025-03-21,Customer 293,WA,West,SKU43,Product 43,Baby,4,$84.09,$4.2,$36.68,$8.59,$20.18,Website,PayPal,Shipped
+SO-2025-10294,295,02/08/2025,2025-02-10,Customer 294,GA,Northeast,SKU44,Product 44,Apparel,1,$26.61,$2.66,$11.21,$1.85,$1.6,Amazon,PayPal,Shipped
+SO-2025-10295,296,02/05/2025,2025-02-09,Customer 295,WA,Northeast,SKU45,Product 45,Wellness,4,$53.52,$5.35,$30.14,$0.43,$12.84,Website,Visa,Returned
+SO-2025-10296,297,12/28/2025,2025-12-29,Customer 296,CA,South,SKU46,Product 46,Apparel,3,$95.63,$9.56,$50.45,$8.84,$17.21,Website,Visa,Returned
+SO-2025-10297,298,01/26/2025,2025-01-27,Customer 297,IL,Northeast,SKU47,Product 47,Apparel,1,$68.19,$10.23,$32.88,$9.06,$4.09,Website,Mastercard,Cancelled
+SO-2025-10298,299,06/01/2025,2025-06-03,Customer 298,IL,South,SKU48,Product 48,Apparel,4,$60.1,$6.01,$33.42,$7.32,$14.42,Website,Mastercard,Shipped
+SO-2025-10299,300,04/10/2025,2025-04-14,Customer 299,NJ,Midwest,SKU49,Product 49,Home & Kitchen,4,$70.43,$0.0,$29.52,$1.5,$16.9,Instagram,PayPal,Returned
+SO-2025-10300,301,08/30/2025,2025-08-31,Customer 300,NY,South,SKU0,Product 0,Home & Kitchen,1,$25.12,$2.51,$14.42,$2.17,$1.51,Amazon,Mastercard,Cancelled
+SO-2025-10301,302,05/30/2025,2025-06-03,Customer 301,NY,West,SKU1,Product 1,Apparel,4,$38.1,$3.81,$19.87,$6.38,$9.14,Instagram,Visa,Shipped
+SO-2025-10302,303,03/19/2025,2025-03-23,Customer 302,NJ,Midwest,SKU2,Product 2,Baby,1,$63.5,$3.18,$27.2,$1.36,$3.81,Website,PayPal,Cancelled
+SO-2025-10303,304,03/26/2025,2025-03-27,Customer 303,AZ,West,SKU3,Product 3,Home & Kitchen,2,$46.39,$2.32,$22.69,$6.92,$5.57,Amazon,Visa,Returned
+SO-2025-10304,305,10/07/2025,2025-10-09,Customer 304,PA,Northeast,SKU4,Product 4,Baby,4,$83.68,$12.55,$45.59,$9.06,$20.08,Amazon,PayPal,Cancelled
+SO-2025-10305,306,04/19/2025,2025-04-22,Customer 305,CA,Northeast,SKU5,Product 5,Home & Kitchen,2,$33.84,$0.0,$19.59,$4.01,$4.06,Amazon,PayPal,Cancelled
+SO-2025-10306,307,12/19/2025,2025-12-20,Customer 306,NJ,South,SKU6,Product 6,Baby,3,$40.92,$4.09,$16.94,$8.32,$7.37,Amazon,Mastercard,Shipped
+SO-2025-10307,308,01/05/2025,2025-01-09,Customer 307,AZ,Midwest,SKU7,Product 7,Baby,4,$31.03,$0.0,$14.09,$6.51,$7.45,Instagram,Mastercard,Shipped
+SO-2025-10308,309,10/27/2025,2025-10-30,Customer 308,PA,Midwest,SKU8,Product 8,Home & Kitchen,1,$51.12,$2.56,$27.29,$3.78,$3.07,Instagram,PayPal,Cancelled
+SO-2025-10309,310,04/12/2025,2025-04-16,Customer 309,WA,Northeast,SKU9,Product 9,Apparel,1,$99.59,$9.96,$49.1,$5.8,$5.98,Amazon,Visa,Cancelled
+SO-2025-10310,311,02/05/2025,2025-02-08,Customer 310,OH,Midwest,SKU10,Product 10,Wellness,1,$25.78,$2.58,$14.2,$5.36,$1.55,Instagram,Visa,Returned
+SO-2025-10311,312,06/07/2025,2025-06-11,Customer 311,PA,Midwest,SKU11,Product 11,Baby,1,$83.96,$12.59,$39.42,$9.81,$5.04,Instagram,PayPal,Cancelled
+SO-2025-10312,313,01/03/2025,2025-01-07,Customer 312,PA,Midwest,SKU12,Product 12,Baby,4,$44.43,$4.44,$21.32,$0.2,$10.66,Website,Mastercard,Cancelled
+SO-2025-10313,314,12/26/2025,2025-12-30,Customer 313,IL,South,SKU13,Product 13,Apparel,4,$58.6,$0.0,$31.31,$6.24,$14.06,Instagram,Mastercard,Cancelled
+SO-2025-10314,315,08/19/2025,2025-08-23,Customer 314,NY,South,SKU14,Product 14,Home & Kitchen,4,$21.49,$3.22,$10.77,$7.09,$5.16,Instagram,Mastercard,Shipped
+SO-2025-10315,316,05/22/2025,2025-05-23,Customer 315,GA,South,SKU15,Product 15,Home & Kitchen,4,$37.28,$1.86,$17.46,$0.88,$8.95,Website,Visa,Returned
+SO-2025-10316,317,09/06/2025,2025-09-09,Customer 316,GA,West,SKU16,Product 16,Pets,1,$55.88,$5.59,$26.79,$9.42,$3.35,Amazon,Mastercard,Shipped
+SO-2025-10317,318,11/07/2025,2025-11-11,Customer 317,FL,Midwest,SKU17,Product 17,Wellness,2,$92.75,$9.28,$47.76,$8.51,$11.13,Website,PayPal,Returned
+SO-2025-10318,319,01/12/2025,2025-01-15,Customer 318,GA,Northeast,SKU18,Product 18,Wellness,3,$45.75,$2.29,$25.78,$6.74,$8.24,Amazon,Mastercard,Cancelled
+SO-2025-10319,320,06/07/2025,2025-06-09,Customer 319,CA,West,SKU19,Product 19,Wellness,2,$82.53,$12.38,$36.51,$0.81,$9.9,Website,Mastercard,Cancelled
+SO-2025-10320,321,06/12/2025,2025-06-16,Customer 320,CA,Midwest,SKU20,Product 20,Pets,2,$23.84,$2.38,$11.19,$5.73,$2.86,Amazon,Visa,Cancelled
+SO-2025-10321,322,09/23/2025,2025-09-27,Customer 321,OH,Northeast,SKU21,Product 21,Apparel,1,$61.76,$0.0,$35.35,$6.06,$3.71,Instagram,Visa,Cancelled
+SO-2025-10322,323,11/17/2025,2025-11-20,Customer 322,GA,Midwest,SKU22,Product 22,Home & Kitchen,2,$90.84,$4.54,$39.51,$9.53,$10.9,Website,Mastercard,Cancelled
+SO-2025-10323,324,01/25/2025,2025-01-29,Customer 323,GA,Midwest,SKU23,Product 23,Apparel,1,$43.08,$6.46,$21.35,$1.35,$2.58,Instagram,PayPal,Returned
+SO-2025-10324,325,03/09/2025,2025-03-13,Customer 324,NY,West,SKU24,Product 24,Wellness,1,$59.46,$8.92,$25.24,$3.12,$3.57,Amazon,Visa,Cancelled
+SO-2025-10325,326,11/30/2025,2025-12-04,Customer 325,IL,West,SKU25,Product 25,Wellness,4,$49.56,$7.43,$28.26,$2.16,$11.89,Instagram,Visa,Shipped
+SO-2025-10326,327,09/11/2025,2025-09-12,Customer 326,OH,Midwest,SKU26,Product 26,Pets,2,$68.52,$6.85,$32.7,$7.81,$8.22,Instagram,PayPal,Shipped
+SO-2025-10327,328,09/23/2025,2025-09-26,Customer 327,NJ,South,SKU27,Product 27,Pets,1,$15.23,$1.52,$8.39,$6.95,$0.91,Instagram,Mastercard,Shipped
+SO-2025-10328,329,03/24/2025,2025-03-26,Customer 328,NY,Northeast,SKU28,Product 28,Baby,1,$22.8,$0.0,$12.69,$1.01,$1.37,Instagram,Mastercard,Returned
+SO-2025-10329,330,03/21/2025,2025-03-25,Customer 329,OH,Northeast,SKU29,Product 29,Pets,4,$15.61,$2.34,$8.22,$8.14,$3.75,Website,PayPal,Returned
+SO-2025-10330,331,12/25/2025,2025-12-27,Customer 330,IL,Midwest,SKU30,Product 30,Apparel,4,$37.56,$5.63,$19.95,$4.26,$9.01,Website,PayPal,Shipped
+SO-2025-10331,332,03/04/2025,2025-03-07,Customer 331,WA,Midwest,SKU31,Product 31,Apparel,1,$89.79,$4.49,$47.66,$3.68,$5.39,Amazon,PayPal,Returned
+SO-2025-10332,333,04/02/2025,2025-04-03,Customer 332,FL,Northeast,SKU32,Product 32,Home & Kitchen,2,$84.48,$0.0,$40.33,$0.11,$10.14,Instagram,Visa,Returned
+SO-2025-10333,334,03/03/2025,2025-03-05,Customer 333,WA,West,SKU33,Product 33,Pets,3,$47.67,$2.38,$21.55,$6.81,$8.58,Website,Mastercard,Returned
+SO-2025-10334,335,03/06/2025,2025-03-07,Customer 334,CA,South,SKU34,Product 34,Pets,1,$11.09,$0.55,$5.83,$8.02,$0.67,Amazon,PayPal,Returned
+SO-2025-10335,336,06/22/2025,2025-06-25,Customer 335,FL,Northeast,SKU35,Product 35,Baby,4,$53.91,$5.39,$24.43,$4.54,$12.94,Website,Mastercard,Shipped
+SO-2025-10336,337,11/04/2025,2025-11-06,Customer 336,CA,Northeast,SKU36,Product 36,Wellness,4,$18.83,$0.94,$8.01,$3.25,$4.52,Instagram,Mastercard,Cancelled
+SO-2025-10337,338,09/09/2025,2025-09-10,Customer 337,PA,Midwest,SKU37,Product 37,Wellness,2,$52.84,$0.0,$27.63,$4.59,$6.34,Website,PayPal,Cancelled
+SO-2025-10338,339,01/21/2025,2025-01-25,Customer 338,NY,Midwest,SKU38,Product 38,Pets,2,$90.29,$0.0,$37.96,$3.15,$10.83,Website,Visa,Shipped
+SO-2025-10339,340,05/09/2025,2025-05-11,Customer 339,NY,South,SKU39,Product 39,Apparel,2,$49.38,$0.0,$22.51,$0.38,$5.93,Website,Mastercard,Cancelled
+SO-2025-10340,341,08/20/2025,2025-08-23,Customer 340,AZ,Midwest,SKU40,Product 40,Apparel,1,$84.26,$8.43,$44.82,$4.5,$5.06,Instagram,Visa,Cancelled
+SO-2025-10341,342,03/20/2025,2025-03-21,Customer 341,PA,Northeast,SKU41,Product 41,Wellness,1,$16.0,$2.4,$9.22,$7.37,$0.96,Amazon,PayPal,Cancelled
+SO-2025-10342,343,03/28/2025,2025-03-31,Customer 342,CA,West,SKU42,Product 42,Apparel,1,$14.3,$2.14,$5.96,$6.59,$0.86,Instagram,Visa,Shipped
+SO-2025-10343,344,06/01/2025,2025-06-04,Customer 343,IL,Northeast,SKU43,Product 43,Apparel,1,$96.09,$0.0,$45.88,$2.97,$5.77,Amazon,PayPal,Cancelled
+SO-2025-10344,345,05/19/2025,2025-05-22,Customer 344,IL,South,SKU44,Product 44,Pets,4,$79.72,$7.97,$44.39,$1.74,$19.13,Instagram,PayPal,Shipped
+SO-2025-10345,346,09/18/2025,2025-09-20,Customer 345,NY,West,SKU45,Product 45,Pets,1,$69.43,$10.41,$28.73,$0.21,$4.17,Website,Visa,Cancelled
+SO-2025-10346,347,08/08/2025,2025-08-09,Customer 346,NY,Midwest,SKU46,Product 46,Baby,1,$36.59,$5.49,$16.3,$3.82,$2.2,Website,Mastercard,Cancelled
+SO-2025-10347,348,02/18/2025,2025-02-19,Customer 347,FL,Midwest,SKU47,Product 47,Pets,4,$65.35,$3.27,$27.05,$5.3,$15.68,Amazon,Visa,Returned
+SO-2025-10348,349,07/09/2025,2025-07-12,Customer 348,FL,Midwest,SKU48,Product 48,Baby,3,$97.16,$0.0,$41.3,$9.8,$17.49,Instagram,Mastercard,Cancelled
+SO-2025-10349,350,09/26/2025,2025-09-30,Customer 349,WA,Northeast,SKU49,Product 49,Pets,1,$92.83,$13.92,$52.2,$1.57,$5.57,Instagram,Visa,Cancelled
+SO-2025-10350,351,01/10/2025,2025-01-11,Customer 350,AZ,South,SKU0,Product 0,Baby,3,$19.97,$1.0,$8.89,$3.76,$3.59,Instagram,PayPal,Cancelled
+SO-2025-10351,352,11/30/2025,2025-12-02,Customer 351,AZ,Midwest,SKU1,Product 1,Pets,4,$44.98,$2.25,$26.48,$9.28,$10.8,Website,Visa,Shipped
+SO-2025-10352,353,06/21/2025,2025-06-24,Customer 352,NJ,Midwest,SKU2,Product 2,Baby,4,$54.64,$0.0,$28.91,$6.71,$13.11,Instagram,Mastercard,Cancelled
+SO-2025-10353,354,08/10/2025,2025-08-12,Customer 353,NJ,West,SKU3,Product 3,Pets,3,$89.13,$13.37,$52.03,$6.36,$16.04,Amazon,PayPal,Returned
+SO-2025-10354,355,05/29/2025,2025-06-01,Customer 354,CA,South,SKU4,Product 4,Apparel,2,$85.78,$12.87,$43.88,$6.56,$10.29,Amazon,Mastercard,Shipped
+SO-2025-10355,356,07/22/2025,2025-07-26,Customer 355,NJ,South,SKU5,Product 5,Apparel,4,$59.05,$5.9,$26.8,$0.43,$14.17,Amazon,Mastercard,Returned
+SO-2025-10356,357,09/15/2025,2025-09-18,Customer 356,FL,Midwest,SKU6,Product 6,Pets,1,$71.68,$10.75,$40.4,$4.88,$4.3,Website,Mastercard,Cancelled
+SO-2025-10357,358,03/29/2025,2025-03-30,Customer 357,IL,Midwest,SKU7,Product 7,Apparel,4,$75.95,$7.6,$41.9,$5.08,$18.23,Website,Mastercard,Cancelled
+SO-2025-10358,359,07/10/2025,2025-07-14,Customer 358,WA,Northeast,SKU8,Product 8,Wellness,2,$60.85,$0.0,$25.48,$6.36,$7.3,Website,Mastercard,Shipped
+SO-2025-10359,360,05/08/2025,2025-05-12,Customer 359,GA,West,SKU9,Product 9,Baby,1,$24.41,$1.22,$12.49,$2.47,$1.46,Website,Visa,Shipped
+SO-2025-10360,361,09/18/2025,2025-09-22,Customer 360,GA,West,SKU10,Product 10,Pets,3,$99.26,$14.89,$43.55,$8.0,$17.87,Amazon,Visa,Shipped
+SO-2025-10361,362,01/10/2025,2025-01-12,Customer 361,IL,Midwest,SKU11,Product 11,Baby,1,$75.98,$7.6,$39.74,$3.55,$4.56,Website,Mastercard,Cancelled
+SO-2025-10362,363,01/13/2025,2025-01-15,Customer 362,CA,West,SKU12,Product 12,Wellness,1,$59.88,$2.99,$34.11,$0.35,$3.59,Amazon,Visa,Shipped
+SO-2025-10363,364,07/28/2025,2025-08-01,Customer 363,OH,West,SKU13,Product 13,Baby,2,$28.22,$1.41,$15.57,$3.27,$3.39,Website,PayPal,Returned
+SO-2025-10364,365,08/31/2025,2025-09-02,Customer 364,NJ,Northeast,SKU14,Product 14,Wellness,3,$37.5,$5.62,$18.77,$3.68,$6.75,Amazon,PayPal,Cancelled
+SO-2025-10365,366,05/12/2025,2025-05-13,Customer 365,CA,Midwest,SKU15,Product 15,Pets,4,$80.24,$4.01,$41.61,$6.63,$19.26,Website,Visa,Returned
+SO-2025-10366,367,11/06/2025,2025-11-10,Customer 366,NY,Midwest,SKU16,Product 16,Wellness,4,$26.05,$1.3,$13.65,$1.81,$6.25,Amazon,Mastercard,Shipped
+SO-2025-10367,368,01/20/2025,2025-01-23,Customer 367,OH,Northeast,SKU17,Product 17,Pets,1,$62.94,$9.44,$31.6,$0.65,$3.78,Instagram,Visa,Returned
+SO-2025-10368,369,12/02/2025,2025-12-06,Customer 368,WA,Midwest,SKU18,Product 18,Home & Kitchen,2,$60.53,$9.08,$24.85,$6.76,$7.26,Amazon,PayPal,Returned
+SO-2025-10369,370,03/23/2025,2025-03-26,Customer 369,WA,Midwest,SKU19,Product 19,Pets,3,$34.28,$5.14,$15.92,$0.77,$6.17,Instagram,PayPal,Shipped
+SO-2025-10370,371,06/01/2025,2025-06-04,Customer 370,NY,Northeast,SKU20,Product 20,Apparel,1,$77.13,$3.86,$41.77,$8.25,$4.63,Amazon,Mastercard,Cancelled
+SO-2025-10371,372,01/19/2025,2025-01-22,Customer 371,IL,South,SKU21,Product 21,Baby,4,$43.61,$2.18,$20.31,$2.36,$10.47,Instagram,PayPal,Returned
+SO-2025-10372,373,11/15/2025,2025-11-18,Customer 372,WA,Northeast,SKU22,Product 22,Home & Kitchen,4,$15.63,$2.34,$8.55,$7.34,$3.75,Website,Visa,Cancelled
+SO-2025-10373,374,04/28/2025,2025-05-02,Customer 373,IL,West,SKU23,Product 23,Pets,1,$25.61,$1.28,$13.5,$1.78,$1.54,Amazon,Visa,Cancelled
+SO-2025-10374,375,07/17/2025,2025-07-19,Customer 374,WA,South,SKU24,Product 24,Wellness,3,$85.58,$8.56,$46.9,$5.88,$15.4,Instagram,Mastercard,Shipped
+SO-2025-10375,376,03/02/2025,2025-03-04,Customer 375,OH,Midwest,SKU25,Product 25,Pets,2,$40.11,$0.0,$21.66,$8.32,$4.81,Amazon,PayPal,Cancelled
+SO-2025-10376,377,07/17/2025,2025-07-19,Customer 376,WA,West,SKU26,Product 26,Pets,1,$93.67,$9.37,$55.09,$8.53,$5.62,Amazon,Mastercard,Shipped
+SO-2025-10377,378,03/10/2025,2025-03-12,Customer 377,IL,Midwest,SKU27,Product 27,Home & Kitchen,1,$51.56,$7.73,$28.9,$9.37,$3.09,Amazon,PayPal,Returned
+SO-2025-10378,379,12/22/2025,2025-12-24,Customer 378,NJ,West,SKU28,Product 28,Wellness,2,$66.81,$3.34,$36.45,$9.09,$8.02,Instagram,PayPal,Cancelled
+SO-2025-10379,380,10/07/2025,2025-10-11,Customer 379,FL,Northeast,SKU29,Product 29,Pets,1,$10.63,$0.0,$4.59,$1.31,$0.64,Amazon,Visa,Cancelled
+SO-2025-10380,381,02/26/2025,2025-02-28,Customer 380,AZ,West,SKU30,Product 30,Baby,3,$93.04,$0.0,$55.02,$2.83,$16.75,Instagram,Visa,Shipped
+SO-2025-10381,382,04/16/2025,2025-04-20,Customer 381,AZ,Northeast,SKU31,Product 31,Baby,2,$13.27,$1.33,$5.96,$7.87,$1.59,Website,Mastercard,Returned
+SO-2025-10382,383,12/02/2025,2025-12-04,Customer 382,OH,South,SKU32,Product 32,Apparel,4,$78.35,$3.92,$44.58,$0.65,$18.8,Instagram,Visa,Returned
+SO-2025-10383,384,10/28/2025,2025-10-31,Customer 383,WA,West,SKU33,Product 33,Home & Kitchen,4,$13.03,$1.95,$6.83,$1.39,$3.13,Instagram,Visa,Cancelled
+SO-2025-10384,385,07/15/2025,2025-07-18,Customer 384,FL,Midwest,SKU34,Product 34,Apparel,2,$47.0,$4.7,$19.61,$0.22,$5.64,Instagram,Mastercard,Returned
+SO-2025-10385,386,09/05/2025,2025-09-06,Customer 385,NY,West,SKU35,Product 35,Pets,3,$96.71,$9.67,$55.75,$0.52,$17.41,Amazon,PayPal,Returned
+SO-2025-10386,387,05/22/2025,2025-05-25,Customer 386,GA,West,SKU36,Product 36,Baby,1,$54.5,$0.0,$24.6,$7.25,$3.27,Website,Mastercard,Cancelled
+SO-2025-10387,388,11/01/2025,2025-11-02,Customer 387,GA,South,SKU37,Product 37,Wellness,3,$37.78,$0.0,$19.71,$1.83,$6.8,Amazon,PayPal,Shipped
+SO-2025-10388,389,06/10/2025,2025-06-13,Customer 388,CA,Midwest,SKU38,Product 38,Apparel,2,$74.8,$7.48,$33.67,$6.84,$8.98,Amazon,PayPal,Cancelled
+SO-2025-10389,390,10/16/2025,2025-10-18,Customer 389,GA,Midwest,SKU39,Product 39,Home & Kitchen,1,$98.25,$0.0,$56.2,$5.43,$5.9,Instagram,PayPal,Cancelled
+SO-2025-10390,391,03/27/2025,2025-03-29,Customer 390,OH,West,SKU40,Product 40,Wellness,1,$58.92,$2.95,$26.23,$4.85,$3.54,Website,Mastercard,Shipped
+SO-2025-10391,392,12/07/2025,2025-12-09,Customer 391,GA,Northeast,SKU41,Product 41,Wellness,1,$95.11,$14.27,$42.15,$4.62,$5.71,Amazon,PayPal,Returned
+SO-2025-10392,393,05/05/2025,2025-05-07,Customer 392,CA,South,SKU42,Product 42,Baby,3,$59.09,$8.86,$32.94,$8.06,$10.64,Instagram,Mastercard,Cancelled
+SO-2025-10393,394,05/18/2025,2025-05-22,Customer 393,GA,South,SKU43,Product 43,Home & Kitchen,3,$14.68,$1.47,$7.33,$2.59,$2.64,Instagram,PayPal,Cancelled
+SO-2025-10394,395,01/20/2025,2025-01-23,Customer 394,FL,South,SKU44,Product 44,Home & Kitchen,2,$39.72,$1.99,$21.88,$2.05,$4.77,Instagram,PayPal,Shipped
+SO-2025-10395,396,08/01/2025,2025-08-02,Customer 395,FL,Northeast,SKU45,Product 45,Home & Kitchen,3,$89.16,$13.37,$40.22,$4.51,$16.05,Amazon,Mastercard,Cancelled
+SO-2025-10396,397,02/27/2025,2025-03-03,Customer 396,CA,Northeast,SKU46,Product 46,Baby,4,$79.48,$7.95,$40.57,$4.64,$19.08,Website,PayPal,Shipped
+SO-2025-10397,398,02/13/2025,2025-02-17,Customer 397,OH,West,SKU47,Product 47,Apparel,1,$45.17,$4.52,$19.02,$4.52,$2.71,Instagram,Visa,Returned
+SO-2025-10398,399,06/27/2025,2025-07-01,Customer 398,IL,Midwest,SKU48,Product 48,Home & Kitchen,3,$79.81,$7.98,$35.05,$5.23,$14.37,Website,PayPal,Cancelled
+SO-2025-10399,400,10/24/2025,2025-10-27,Customer 399,FL,Northeast,SKU49,Product 49,Baby,4,$34.88,$5.23,$19.52,$1.96,$8.37,Amazon,Visa,Shipped
+SO-2025-10400,401,08/26/2025,2025-08-30,Customer 400,OH,West,SKU0,Product 0,Baby,4,$56.82,$8.52,$30.64,$1.66,$13.64,Instagram,Mastercard,Shipped
+SO-2025-10401,402,12/02/2025,2025-12-06,Customer 401,NJ,Midwest,SKU1,Product 1,Pets,3,$42.68,$4.27,$19.44,$5.07,$7.68,Instagram,Visa,Returned
+SO-2025-10402,403,08/08/2025,2025-08-12,Customer 402,GA,West,SKU2,Product 2,Pets,1,$13.0,$1.95,$7.52,$8.2,$0.78,Instagram,Mastercard,Shipped
+SO-2025-10403,404,04/11/2025,2025-04-15,Customer 403,WA,West,SKU3,Product 3,Wellness,4,$81.87,$4.09,$34.11,$1.18,$19.65,Website,Visa,Returned
+SO-2025-10404,405,10/29/2025,2025-10-30,Customer 404,NY,West,SKU4,Product 4,Wellness,3,$97.04,$9.7,$48.24,$6.68,$17.47,Instagram,Visa,Shipped
+SO-2025-10405,406,09/26/2025,2025-09-29,Customer 405,IL,Midwest,SKU5,Product 5,Pets,2,$24.94,$1.25,$14.86,$1.62,$2.99,Instagram,Visa,Shipped
+SO-2025-10406,407,10/10/2025,2025-10-14,Customer 406,AZ,West,SKU6,Product 6,Apparel,1,$60.38,$0.0,$24.51,$8.9,$3.62,Instagram,Mastercard,Shipped
+SO-2025-10407,408,05/13/2025,2025-05-15,Customer 407,OH,Northeast,SKU7,Product 7,Baby,3,$26.87,$0.0,$12.34,$5.41,$4.84,Website,Mastercard,Returned
+SO-2025-10408,409,07/30/2025,2025-08-03,Customer 408,FL,Northeast,SKU8,Product 8,Wellness,4,$38.29,$3.83,$22.22,$4.59,$9.19,Amazon,Visa,Returned
+SO-2025-10409,410,08/01/2025,2025-08-03,Customer 409,GA,Midwest,SKU9,Product 9,Wellness,4,$54.48,$5.45,$31.38,$1.74,$13.08,Instagram,PayPal,Cancelled
+SO-2025-10410,411,10/04/2025,2025-10-07,Customer 410,NJ,Midwest,SKU10,Product 10,Wellness,4,$84.34,$4.22,$45.87,$1.42,$20.24,Instagram,Visa,Shipped
+SO-2025-10411,412,02/10/2025,2025-02-13,Customer 411,PA,West,SKU11,Product 11,Wellness,3,$50.53,$2.53,$26.41,$6.21,$9.1,Website,Mastercard,Cancelled
+SO-2025-10412,413,05/30/2025,2025-06-02,Customer 412,WA,Midwest,SKU12,Product 12,Home & Kitchen,1,$85.73,$8.57,$48.76,$6.34,$5.14,Instagram,Mastercard,Returned
+SO-2025-10413,414,07/31/2025,2025-08-04,Customer 413,AZ,South,SKU13,Product 13,Baby,1,$70.86,$3.54,$32.81,$0.7,$4.25,Website,Mastercard,Shipped
+SO-2025-10414,415,07/20/2025,2025-07-24,Customer 414,CA,Midwest,SKU14,Product 14,Apparel,4,$30.45,$4.57,$12.62,$6.43,$7.31,Instagram,PayPal,Returned
+SO-2025-10415,416,01/04/2025,2025-01-05,Customer 415,WA,South,SKU15,Product 15,Baby,2,$56.14,$2.81,$26.5,$0.33,$6.74,Instagram,PayPal,Shipped
+SO-2025-10416,417,04/27/2025,2025-04-28,Customer 416,WA,West,SKU16,Product 16,Pets,1,$68.78,$3.44,$39.94,$7.66,$4.13,Instagram,Mastercard,Shipped
+SO-2025-10417,418,12/21/2025,2025-12-23,Customer 417,AZ,Northeast,SKU17,Product 17,Home & Kitchen,4,$69.85,$3.49,$37.03,$6.71,$16.76,Instagram,PayPal,Shipped
+SO-2025-10418,419,04/01/2025,2025-04-02,Customer 418,AZ,South,SKU18,Product 18,Baby,2,$50.23,$2.51,$22.37,$5.47,$6.03,Amazon,PayPal,Returned
+SO-2025-10419,420,02/04/2025,2025-02-05,Customer 419,PA,South,SKU19,Product 19,Pets,3,$97.91,$4.9,$48.55,$0.42,$17.62,Amazon,Visa,Cancelled
+SO-2025-10420,421,12/10/2025,2025-12-11,Customer 420,CA,Northeast,SKU20,Product 20,Apparel,2,$92.63,$9.26,$39.41,$2.92,$11.12,Website,PayPal,Returned
+SO-2025-10421,422,10/02/2025,2025-10-05,Customer 421,CA,Northeast,SKU21,Product 21,Pets,1,$85.55,$0.0,$50.69,$5.59,$5.13,Amazon,PayPal,Returned
+SO-2025-10422,423,05/04/2025,2025-05-06,Customer 422,NJ,West,SKU22,Product 22,Wellness,3,$57.94,$5.79,$33.29,$2.18,$10.43,Website,PayPal,Shipped
+SO-2025-10423,424,11/13/2025,2025-11-14,Customer 423,AZ,Northeast,SKU23,Product 23,Home & Kitchen,4,$18.69,$0.93,$7.65,$4.69,$4.49,Amazon,Mastercard,Cancelled
+SO-2025-10424,425,03/30/2025,2025-04-01,Customer 424,PA,Northeast,SKU24,Product 24,Home & Kitchen,2,$63.85,$6.39,$28.43,$7.43,$7.66,Amazon,Visa,Returned
+SO-2025-10425,426,07/15/2025,2025-07-16,Customer 425,OH,South,SKU25,Product 25,Baby,3,$91.26,$13.69,$52.52,$5.93,$16.43,Instagram,PayPal,Cancelled
+SO-2025-10426,427,04/30/2025,2025-05-01,Customer 426,OH,Midwest,SKU26,Product 26,Apparel,3,$66.36,$9.95,$29.72,$2.85,$11.94,Amazon,Mastercard,Returned
+SO-2025-10427,428,09/25/2025,2025-09-28,Customer 427,PA,South,SKU27,Product 27,Wellness,3,$34.1,$1.7,$19.48,$6.59,$6.14,Website,Visa,Cancelled
+SO-2025-10428,429,10/31/2025,2025-11-01,Customer 428,OH,South,SKU28,Product 28,Baby,4,$29.82,$4.47,$12.61,$5.25,$7.16,Website,Visa,Returned
+SO-2025-10429,430,11/20/2025,2025-11-24,Customer 429,CA,West,SKU29,Product 29,Pets,3,$84.64,$12.7,$50.04,$5.17,$15.24,Amazon,Visa,Shipped
+SO-2025-10430,431,11/28/2025,2025-12-01,Customer 430,CA,Midwest,SKU30,Product 30,Baby,2,$49.11,$4.91,$20.99,$8.93,$5.89,Amazon,Visa,Cancelled
+SO-2025-10431,432,04/03/2025,2025-04-04,Customer 431,PA,Northeast,SKU31,Product 31,Apparel,2,$64.64,$6.46,$31.61,$7.03,$7.76,Instagram,Visa,Shipped
+SO-2025-10432,433,05/12/2025,2025-05-16,Customer 432,FL,Northeast,SKU32,Product 32,Home & Kitchen,3,$56.11,$8.42,$25.07,$4.88,$10.1,Instagram,Visa,Returned
+SO-2025-10433,434,12/08/2025,2025-12-09,Customer 433,AZ,Northeast,SKU33,Product 33,Baby,4,$95.55,$4.78,$47.26,$5.06,$22.93,Instagram,Visa,Returned
+SO-2025-10434,435,03/28/2025,2025-03-29,Customer 434,CA,South,SKU34,Product 34,Pets,2,$16.38,$0.0,$6.56,$4.72,$1.97,Website,Visa,Shipped
+SO-2025-10435,436,08/06/2025,2025-08-07,Customer 435,WA,Midwest,SKU35,Product 35,Baby,3,$22.6,$3.39,$11.16,$3.31,$4.07,Instagram,PayPal,Returned
+SO-2025-10436,437,08/29/2025,2025-09-02,Customer 436,AZ,Midwest,SKU36,Product 36,Baby,3,$27.65,$2.76,$13.53,$2.07,$4.98,Amazon,Visa,Cancelled
+SO-2025-10437,438,05/21/2025,2025-05-25,Customer 437,WA,South,SKU37,Product 37,Apparel,1,$10.5,$0.52,$4.3,$0.37,$0.63,Amazon,Mastercard,Shipped
+SO-2025-10438,439,12/19/2025,2025-12-21,Customer 438,WA,South,SKU38,Product 38,Apparel,2,$51.66,$0.0,$26.57,$3.97,$6.2,Instagram,Mastercard,Shipped
+SO-2025-10439,440,11/06/2025,2025-11-07,Customer 439,IL,West,SKU39,Product 39,Pets,2,$35.0,$5.25,$14.61,$8.18,$4.2,Amazon,PayPal,Returned
+SO-2025-10440,441,10/04/2025,2025-10-05,Customer 440,OH,South,SKU40,Product 40,Wellness,3,$89.19,$8.92,$51.27,$6.75,$16.05,Amazon,Visa,Cancelled
+SO-2025-10441,442,05/27/2025,2025-05-31,Customer 441,CA,South,SKU41,Product 41,Baby,3,$21.83,$1.09,$9.45,$4.22,$3.93,Amazon,PayPal,Shipped
+SO-2025-10442,443,11/28/2025,2025-11-29,Customer 442,CA,Northeast,SKU42,Product 42,Pets,4,$91.68,$0.0,$41.41,$3.09,$22.0,Amazon,Mastercard,Cancelled
+SO-2025-10443,444,10/28/2025,2025-10-29,Customer 443,WA,South,SKU43,Product 43,Apparel,2,$95.96,$4.8,$52.23,$6.36,$11.52,Website,Mastercard,Shipped
+SO-2025-10444,445,12/09/2025,2025-12-13,Customer 444,IL,Northeast,SKU44,Product 44,Apparel,2,$33.18,$3.32,$13.54,$6.87,$3.98,Amazon,Visa,Cancelled
+SO-2025-10445,446,11/20/2025,2025-11-23,Customer 445,FL,Northeast,SKU45,Product 45,Wellness,2,$82.03,$12.3,$38.87,$5.96,$9.84,Amazon,PayPal,Cancelled
+SO-2025-10446,447,03/25/2025,2025-03-26,Customer 446,AZ,Northeast,SKU46,Product 46,Home & Kitchen,1,$16.39,$0.82,$7.61,$9.42,$0.98,Website,PayPal,Cancelled
+SO-2025-10447,448,10/12/2025,2025-10-14,Customer 447,WA,South,SKU47,Product 47,Apparel,1,$68.18,$6.82,$35.37,$5.02,$4.09,Website,Mastercard,Returned
+SO-2025-10448,449,02/20/2025,2025-02-24,Customer 448,NJ,South,SKU48,Product 48,Baby,2,$20.42,$2.04,$11.74,$6.38,$2.45,Instagram,Visa,Cancelled
+SO-2025-10449,450,04/27/2025,2025-05-01,Customer 449,CA,South,SKU49,Product 49,Pets,2,$57.7,$5.77,$29.24,$8.2,$6.92,Instagram,Visa,Returned
+SO-2025-10450,451,09/25/2025,2025-09-27,Customer 450,FL,Midwest,SKU0,Product 0,Wellness,3,$50.4,$5.04,$25.98,$9.1,$9.07,Amazon,Mastercard,Cancelled
+SO-2025-10451,452,03/03/2025,2025-03-04,Customer 451,IL,Midwest,SKU1,Product 1,Wellness,1,$29.44,$0.0,$16.07,$0.67,$1.77,Amazon,PayPal,Returned
+SO-2025-10452,453,10/04/2025,2025-10-07,Customer 452,CA,Northeast,SKU2,Product 2,Apparel,2,$86.67,$13.0,$46.33,$5.43,$10.4,Amazon,Visa,Returned
+SO-2025-10453,454,05/02/2025,2025-05-05,Customer 453,IL,West,SKU3,Product 3,Home & Kitchen,2,$50.18,$2.51,$23.93,$8.58,$6.02,Instagram,Visa,Cancelled
+SO-2025-10454,455,12/01/2025,2025-12-05,Customer 454,NY,Northeast,SKU4,Product 4,Wellness,1,$48.79,$7.32,$28.2,$3.71,$2.93,Instagram,PayPal,Cancelled
+SO-2025-10455,456,11/09/2025,2025-11-11,Customer 455,OH,Midwest,SKU5,Product 5,Baby,2,$73.5,$0.0,$37.13,$1.67,$8.82,Website,Mastercard,Shipped
+SO-2025-10456,457,01/07/2025,2025-01-11,Customer 456,OH,South,SKU6,Product 6,Apparel,4,$14.03,$0.0,$6.58,$3.4,$3.37,Instagram,PayPal,Cancelled
+SO-2025-10457,458,07/21/2025,2025-07-24,Customer 457,IL,Midwest,SKU7,Product 7,Apparel,4,$44.1,$4.41,$20.64,$7.92,$10.58,Instagram,PayPal,Cancelled
+SO-2025-10458,459,11/01/2025,2025-11-05,Customer 458,CA,West,SKU8,Product 8,Baby,1,$70.94,$0.0,$35.91,$2.18,$4.26,Instagram,Mastercard,Shipped
+SO-2025-10459,460,07/23/2025,2025-07-25,Customer 459,NY,West,SKU9,Product 9,Baby,2,$50.86,$7.63,$22.05,$4.86,$6.1,Instagram,PayPal,Shipped
+SO-2025-10460,461,12/10/2025,2025-12-13,Customer 460,WA,Northeast,SKU10,Product 10,Home & Kitchen,3,$57.87,$0.0,$27.59,$2.09,$10.42,Instagram,Visa,Shipped
+SO-2025-10461,462,12/29/2025,2026-01-01,Customer 461,OH,South,SKU11,Product 11,Baby,4,$47.27,$4.73,$19.13,$1.47,$11.34,Website,PayPal,Shipped
+SO-2025-10462,463,09/02/2025,2025-09-04,Customer 462,NJ,South,SKU12,Product 12,Pets,2,$21.7,$1.08,$9.18,$3.75,$2.6,Amazon,Mastercard,Shipped
+SO-2025-10463,464,02/04/2025,2025-02-05,Customer 463,AZ,West,SKU13,Product 13,Apparel,3,$49.97,$2.5,$28.25,$0.88,$8.99,Website,Visa,Cancelled
+SO-2025-10464,465,02/28/2025,2025-03-04,Customer 464,WA,West,SKU14,Product 14,Home & Kitchen,3,$23.64,$0.0,$11.28,$7.74,$4.26,Website,PayPal,Cancelled
+SO-2025-10465,466,03/10/2025,2025-03-12,Customer 465,GA,Midwest,SKU15,Product 15,Home & Kitchen,1,$53.01,$0.0,$26.95,$2.47,$3.18,Instagram,PayPal,Cancelled
+SO-2025-10466,467,12/09/2025,2025-12-12,Customer 466,OH,South,SKU16,Product 16,Home & Kitchen,3,$42.06,$2.1,$19.01,$1.77,$7.57,Website,PayPal,Shipped
+SO-2025-10467,468,12/07/2025,2025-12-10,Customer 467,FL,South,SKU17,Product 17,Pets,2,$70.96,$0.0,$42.1,$5.45,$8.52,Instagram,Mastercard,Returned
+SO-2025-10468,469,04/02/2025,2025-04-04,Customer 468,GA,West,SKU18,Product 18,Home & Kitchen,3,$22.53,$2.25,$9.69,$4.89,$4.06,Amazon,Mastercard,Returned
+SO-2025-10469,470,09/30/2025,2025-10-04,Customer 469,AZ,South,SKU19,Product 19,Baby,3,$89.23,$13.38,$41.51,$6.21,$16.06,Amazon,PayPal,Shipped
+SO-2025-10470,471,06/14/2025,2025-06-15,Customer 470,NJ,Northeast,SKU20,Product 20,Apparel,3,$45.56,$6.83,$25.99,$5.43,$8.2,Amazon,Mastercard,Cancelled
+SO-2025-10471,472,05/27/2025,2025-05-29,Customer 471,CA,Northeast,SKU21,Product 21,Home & Kitchen,3,$96.76,$0.0,$50.3,$5.33,$17.42,Instagram,Visa,Shipped
+SO-2025-10472,473,05/20/2025,2025-05-21,Customer 472,CA,West,SKU22,Product 22,Wellness,2,$21.76,$2.18,$11.09,$7.94,$2.61,Instagram,Visa,Cancelled
+SO-2025-10473,474,01/20/2025,2025-01-23,Customer 473,NJ,South,SKU23,Product 23,Baby,1,$88.94,$13.34,$52.82,$4.63,$5.34,Instagram,PayPal,Returned
+SO-2025-10474,475,10/31/2025,2025-11-03,Customer 474,GA,Northeast,SKU24,Product 24,Home & Kitchen,4,$53.51,$8.03,$26.67,$3.75,$12.84,Instagram,Mastercard,Cancelled
+SO-2025-10475,476,04/12/2025,2025-04-15,Customer 475,AZ,Northeast,SKU25,Product 25,Baby,3,$28.29,$4.24,$13.81,$5.11,$5.09,Amazon,Visa,Shipped
+SO-2025-10476,477,09/06/2025,2025-09-09,Customer 476,AZ,South,SKU26,Product 26,Apparel,3,$61.96,$6.2,$35.87,$4.08,$11.15,Website,Mastercard,Shipped
+SO-2025-10477,478,06/24/2025,2025-06-28,Customer 477,AZ,South,SKU27,Product 27,Pets,3,$63.23,$6.32,$37.38,$9.96,$11.38,Amazon,PayPal,Cancelled
+SO-2025-10478,479,11/24/2025,2025-11-28,Customer 478,IL,West,SKU28,Product 28,Baby,4,$10.29,$0.0,$5.86,$2.4,$2.47,Instagram,PayPal,Shipped
+SO-2025-10479,480,03/04/2025,2025-03-06,Customer 479,WA,Midwest,SKU29,Product 29,Home & Kitchen,2,$33.04,$0.0,$16.59,$2.21,$3.96,Website,Mastercard,Shipped
+SO-2025-10480,481,07/27/2025,2025-07-30,Customer 480,PA,Midwest,SKU30,Product 30,Pets,2,$52.92,$0.0,$21.49,$6.93,$6.35,Instagram,PayPal,Returned
+SO-2025-10481,482,10/25/2025,2025-10-26,Customer 481,IL,Northeast,SKU31,Product 31,Wellness,4,$36.95,$5.54,$20.84,$2.79,$8.87,Amazon,Mastercard,Shipped
+SO-2025-10482,483,07/03/2025,2025-07-05,Customer 482,IL,West,SKU32,Product 32,Apparel,2,$96.17,$9.62,$57.52,$6.77,$11.54,Website,PayPal,Cancelled
+SO-2025-10483,484,04/23/2025,2025-04-27,Customer 483,OH,Northeast,SKU33,Product 33,Pets,4,$36.52,$3.65,$14.93,$8.34,$8.76,Amazon,Visa,Cancelled
+SO-2025-10484,485,01/01/2025,2025-01-05,Customer 484,PA,Northeast,SKU34,Product 34,Wellness,3,$22.86,$3.43,$13.43,$6.59,$4.11,Website,Mastercard,Cancelled
+SO-2025-10485,486,05/07/2025,2025-05-10,Customer 485,NY,West,SKU35,Product 35,Wellness,1,$86.13,$4.31,$36.25,$4.88,$5.17,Amazon,Visa,Shipped
+SO-2025-10486,487,09/17/2025,2025-09-20,Customer 486,NJ,Midwest,SKU36,Product 36,Apparel,2,$12.2,$1.22,$5.73,$6.32,$1.46,Amazon,Mastercard,Shipped
+SO-2025-10487,488,06/22/2025,2025-06-24,Customer 487,NY,Northeast,SKU37,Product 37,Baby,4,$16.51,$0.0,$6.94,$3.0,$3.96,Amazon,Mastercard,Cancelled
+SO-2025-10488,489,05/25/2025,2025-05-29,Customer 488,WA,West,SKU38,Product 38,Home & Kitchen,3,$85.79,$12.87,$46.45,$1.45,$15.44,Website,Visa,Returned
+SO-2025-10489,490,01/13/2025,2025-01-16,Customer 489,WA,Northeast,SKU39,Product 39,Pets,4,$36.58,$5.49,$20.95,$8.03,$8.78,Instagram,Mastercard,Returned
+SO-2025-10490,491,04/30/2025,2025-05-01,Customer 490,NJ,Midwest,SKU40,Product 40,Apparel,2,$33.96,$1.7,$15.77,$8.42,$4.08,Amazon,Visa,Cancelled
+SO-2025-10491,492,08/21/2025,2025-08-24,Customer 491,WA,South,SKU41,Product 41,Pets,2,$98.11,$0.0,$43.46,$6.48,$11.77,Instagram,Visa,Cancelled
+SO-2025-10492,493,08/02/2025,2025-08-04,Customer 492,OH,South,SKU42,Product 42,Baby,3,$89.98,$9.0,$51.59,$5.86,$16.2,Amazon,Mastercard,Returned
+SO-2025-10493,494,02/23/2025,2025-02-27,Customer 493,CA,South,SKU43,Product 43,Home & Kitchen,4,$67.34,$3.37,$30.19,$2.35,$16.16,Website,Mastercard,Returned
+SO-2025-10494,495,02/22/2025,2025-02-23,Customer 494,OH,Midwest,SKU44,Product 44,Apparel,4,$36.1,$1.81,$18.2,$9.17,$8.66,Website,Mastercard,Returned
+SO-2025-10495,496,09/21/2025,2025-09-23,Customer 495,FL,West,SKU45,Product 45,Pets,2,$46.13,$4.61,$21.07,$8.24,$5.54,Instagram,Visa,Returned
+SO-2025-10496,497,05/07/2025,2025-05-10,Customer 496,PA,South,SKU46,Product 46,Wellness,3,$34.44,$0.0,$15.96,$1.89,$6.2,Website,Mastercard,Returned
+SO-2025-10497,498,12/15/2025,2025-12-18,Customer 497,AZ,West,SKU47,Product 47,Wellness,2,$74.35,$3.72,$40.25,$5.83,$8.92,Amazon,Mastercard,Returned
+SO-2025-10498,499,09/21/2025,2025-09-22,Customer 498,AZ,South,SKU48,Product 48,Wellness,1,$40.63,$6.09,$22.27,$9.31,$2.44,Amazon,PayPal,Cancelled
+SO-2025-10499,500,05/01/2025,2025-05-05,Customer 499,FL,West,SKU49,Product 49,Wellness,1,$21.69,$0.0,$12.33,$5.72,$1.3,Website,Mastercard,Returned
+SO-2025-10500,501,12/04/2025,2025-12-08,Customer 500,GA,West,SKU0,Product 0,Pets,3,$94.87,$9.49,$55.21,$9.36,$17.08,Website,Mastercard,Returned
+SO-2025-10501,502,06/28/2025,2025-06-29,Customer 501,GA,West,SKU1,Product 1,Wellness,1,$20.44,$2.04,$10.19,$9.3,$1.23,Website,PayPal,Shipped
+SO-2025-10502,503,08/05/2025,2025-08-06,Customer 502,AZ,South,SKU2,Product 2,Pets,4,$70.83,$7.08,$30.7,$8.76,$17.0,Website,PayPal,Returned
+SO-2025-10503,504,04/11/2025,2025-04-14,Customer 503,FL,West,SKU3,Product 3,Wellness,1,$35.06,$3.51,$20.69,$9.44,$2.1,Instagram,Visa,Returned
+SO-2025-10504,505,07/20/2025,2025-07-22,Customer 504,CA,South,SKU4,Product 4,Wellness,1,$52.79,$5.28,$27.92,$1.05,$3.17,Website,Mastercard,Cancelled
+SO-2025-10505,506,10/31/2025,2025-11-04,Customer 505,NY,West,SKU5,Product 5,Apparel,3,$55.04,$0.0,$27.26,$2.09,$9.91,Website,Mastercard,Cancelled
+SO-2025-10506,507,08/15/2025,2025-08-17,Customer 506,CA,West,SKU6,Product 6,Pets,4,$10.26,$1.03,$5.68,$5.52,$2.46,Instagram,PayPal,Returned
+SO-2025-10507,508,04/10/2025,2025-04-13,Customer 507,WA,Northeast,SKU7,Product 7,Wellness,3,$74.77,$0.0,$39.74,$7.3,$13.46,Instagram,PayPal,Cancelled
+SO-2025-10508,509,04/10/2025,2025-04-14,Customer 508,PA,Northeast,SKU8,Product 8,Baby,1,$77.86,$0.0,$35.74,$9.31,$4.67,Instagram,PayPal,Returned
+SO-2025-10509,510,10/19/2025,2025-10-20,Customer 509,NY,Northeast,SKU9,Product 9,Pets,2,$76.34,$3.82,$40.38,$6.82,$9.16,Instagram,PayPal,Cancelled
+SO-2025-10510,511,11/06/2025,2025-11-09,Customer 510,OH,Midwest,SKU10,Product 10,Apparel,2,$62.13,$0.0,$28.42,$6.67,$7.46,Website,Visa,Shipped
+SO-2025-10511,512,02/18/2025,2025-02-19,Customer 511,GA,South,SKU11,Product 11,Pets,2,$80.38,$0.0,$36.45,$6.88,$9.65,Instagram,PayPal,Cancelled
+SO-2025-10512,513,01/13/2025,2025-01-17,Customer 512,AZ,South,SKU12,Product 12,Apparel,1,$92.0,$4.6,$37.16,$9.49,$5.52,Amazon,Mastercard,Returned
+SO-2025-10513,514,06/12/2025,2025-06-14,Customer 513,AZ,South,SKU13,Product 13,Wellness,1,$76.26,$3.81,$38.6,$2.67,$4.58,Website,Mastercard,Shipped
+SO-2025-10514,515,01/29/2025,2025-01-31,Customer 514,GA,West,SKU14,Product 14,Home & Kitchen,3,$88.99,$4.45,$44.83,$7.62,$16.02,Website,PayPal,Shipped
+SO-2025-10515,516,04/29/2025,2025-05-01,Customer 515,IL,Midwest,SKU15,Product 15,Wellness,4,$34.05,$0.0,$17.17,$8.57,$8.17,Amazon,Visa,Cancelled
+SO-2025-10516,517,06/30/2025,2025-07-01,Customer 516,CA,Midwest,SKU16,Product 16,Apparel,2,$79.31,$3.97,$37.56,$2.66,$9.52,Website,Mastercard,Cancelled
+SO-2025-10517,518,08/12/2025,2025-08-16,Customer 517,CA,Midwest,SKU17,Product 17,Home & Kitchen,1,$40.76,$4.08,$20.53,$6.42,$2.45,Amazon,Visa,Cancelled
+SO-2025-10518,519,01/12/2025,2025-01-15,Customer 518,PA,Northeast,SKU18,Product 18,Wellness,4,$61.13,$0.0,$32.36,$8.79,$14.67,Instagram,Visa,Cancelled
+SO-2025-10519,520,11/03/2025,2025-11-04,Customer 519,NY,South,SKU19,Product 19,Pets,1,$59.23,$8.88,$32.97,$2.91,$3.55,Website,PayPal,Shipped
+SO-2025-10520,521,02/14/2025,2025-02-15,Customer 520,IL,West,SKU20,Product 20,Apparel,2,$23.71,$3.56,$9.8,$9.37,$2.85,Website,Mastercard,Cancelled
+SO-2025-10521,522,08/14/2025,2025-08-16,Customer 521,NY,South,SKU21,Product 21,Apparel,4,$52.61,$7.89,$26.03,$5.82,$12.63,Amazon,Visa,Cancelled
+SO-2025-10522,523,04/14/2025,2025-04-16,Customer 522,AZ,South,SKU22,Product 22,Apparel,1,$31.52,$4.73,$18.86,$6.45,$1.89,Instagram,Mastercard,Returned
+SO-2025-10523,524,10/15/2025,2025-10-19,Customer 523,NJ,South,SKU23,Product 23,Baby,4,$79.92,$0.0,$35.57,$6.2,$19.18,Amazon,PayPal,Shipped
+SO-2025-10524,525,01/26/2025,2025-01-27,Customer 524,AZ,Northeast,SKU24,Product 24,Pets,1,$80.32,$0.0,$36.57,$8.11,$4.82,Website,Mastercard,Returned
+SO-2025-10525,526,12/26/2025,2025-12-27,Customer 525,FL,West,SKU25,Product 25,Home & Kitchen,4,$44.93,$6.74,$23.75,$3.45,$10.78,Amazon,PayPal,Returned
+SO-2025-10526,527,02/21/2025,2025-02-24,Customer 526,WA,Midwest,SKU26,Product 26,Pets,2,$36.15,$5.42,$18.36,$7.08,$4.34,Amazon,PayPal,Returned
+SO-2025-10527,528,08/30/2025,2025-08-31,Customer 527,AZ,Northeast,SKU27,Product 27,Wellness,2,$23.26,$0.0,$11.62,$4.48,$2.79,Amazon,Mastercard,Cancelled
+SO-2025-10528,529,02/23/2025,2025-02-27,Customer 528,NY,Midwest,SKU28,Product 28,Pets,1,$96.21,$9.62,$53.13,$5.01,$5.77,Instagram,Visa,Cancelled
+SO-2025-10529,530,10/04/2025,2025-10-06,Customer 529,NY,Midwest,SKU29,Product 29,Home & Kitchen,2,$16.86,$0.84,$9.88,$4.6,$2.02,Website,Mastercard,Shipped
+SO-2025-10530,531,07/21/2025,2025-07-23,Customer 530,NY,Midwest,SKU30,Product 30,Baby,2,$48.95,$2.45,$25.07,$4.46,$5.87,Instagram,Mastercard,Returned
+SO-2025-10531,532,08/23/2025,2025-08-25,Customer 531,AZ,South,SKU31,Product 31,Pets,4,$85.93,$12.89,$51.47,$8.54,$20.62,Amazon,Mastercard,Shipped
+SO-2025-10532,533,06/05/2025,2025-06-09,Customer 532,CA,South,SKU32,Product 32,Pets,4,$96.46,$14.47,$50.86,$9.95,$23.15,Website,Mastercard,Returned
+SO-2025-10533,534,11/16/2025,2025-11-17,Customer 533,NY,South,SKU33,Product 33,Wellness,3,$98.3,$0.0,$43.63,$4.37,$17.69,Amazon,PayPal,Shipped
+SO-2025-10534,535,01/19/2025,2025-01-21,Customer 534,IL,Northeast,SKU34,Product 34,Apparel,3,$16.58,$0.83,$6.68,$1.9,$2.98,Website,Visa,Returned
+SO-2025-10535,536,10/12/2025,2025-10-13,Customer 535,WA,West,SKU35,Product 35,Apparel,3,$41.95,$0.0,$24.84,$9.53,$7.55,Instagram,Mastercard,Returned
+SO-2025-10536,537,09/04/2025,2025-09-08,Customer 536,CA,West,SKU36,Product 36,Baby,4,$24.55,$3.68,$13.62,$2.47,$5.89,Website,PayPal,Shipped
+SO-2025-10537,538,11/17/2025,2025-11-19,Customer 537,FL,Midwest,SKU37,Product 37,Home & Kitchen,3,$69.99,$7.0,$41.44,$7.72,$12.6,Amazon,Visa,Cancelled
+SO-2025-10538,539,03/27/2025,2025-03-31,Customer 538,GA,South,SKU38,Product 38,Apparel,4,$11.09,$0.55,$6.18,$9.26,$2.66,Instagram,PayPal,Returned
+SO-2025-10539,540,09/12/2025,2025-09-14,Customer 539,WA,Northeast,SKU39,Product 39,Pets,3,$14.15,$0.71,$6.57,$5.15,$2.55,Website,Mastercard,Cancelled
+SO-2025-10540,541,04/01/2025,2025-04-05,Customer 540,IL,Northeast,SKU40,Product 40,Apparel,2,$48.58,$0.0,$23.35,$6.62,$5.83,Instagram,Visa,Returned
+SO-2025-10541,542,01/10/2025,2025-01-12,Customer 541,PA,South,SKU41,Product 41,Wellness,4,$36.0,$5.4,$21.53,$9.93,$8.64,Website,Mastercard,Returned
+SO-2025-10542,543,06/09/2025,2025-06-13,Customer 542,IL,Northeast,SKU42,Product 42,Apparel,1,$78.49,$0.0,$41.37,$7.54,$4.71,Website,Visa,Shipped
+SO-2025-10543,544,06/12/2025,2025-06-13,Customer 543,AZ,Midwest,SKU43,Product 43,Pets,3,$95.58,$9.56,$43.5,$7.88,$17.2,Instagram,Mastercard,Shipped
+SO-2025-10544,545,04/26/2025,2025-04-27,Customer 544,AZ,South,SKU44,Product 44,Baby,1,$60.77,$6.08,$29.36,$2.4,$3.65,Website,Visa,Cancelled
+SO-2025-10545,546,02/27/2025,2025-03-02,Customer 545,IL,Midwest,SKU45,Product 45,Pets,2,$92.64,$13.9,$37.57,$2.21,$11.12,Instagram,Visa,Returned
+SO-2025-10546,547,04/15/2025,2025-04-19,Customer 546,GA,Midwest,SKU46,Product 46,Pets,1,$13.24,$0.0,$5.69,$2.82,$0.79,Amazon,PayPal,Cancelled
+SO-2025-10547,548,08/09/2025,2025-08-10,Customer 547,PA,South,SKU47,Product 47,Apparel,4,$62.35,$6.24,$31.96,$5.17,$14.96,Website,Mastercard,Cancelled
+SO-2025-10548,549,10/09/2025,2025-10-12,Customer 548,NY,South,SKU48,Product 48,Baby,3,$35.42,$5.31,$17.21,$9.46,$6.38,Website,PayPal,Returned
+SO-2025-10549,550,02/09/2025,2025-02-13,Customer 549,FL,West,SKU49,Product 49,Apparel,1,$47.75,$7.16,$26.96,$4.98,$2.86,Website,PayPal,Cancelled
+SO-2025-10550,551,04/26/2025,2025-04-30,Customer 550,GA,West,SKU0,Product 0,Apparel,1,$63.2,$0.0,$29.02,$8.55,$3.79,Amazon,Visa,Cancelled
+SO-2025-10551,552,11/20/2025,2025-11-23,Customer 551,PA,West,SKU1,Product 1,Pets,2,$94.67,$0.0,$46.58,$8.11,$11.36,Instagram,Mastercard,Cancelled
+SO-2025-10552,553,02/09/2025,2025-02-13,Customer 552,IL,West,SKU2,Product 2,Apparel,3,$39.9,$2.0,$22.14,$6.55,$7.18,Amazon,PayPal,Shipped
+SO-2025-10553,554,11/19/2025,2025-11-23,Customer 553,PA,West,SKU3,Product 3,Wellness,2,$88.83,$8.88,$36.34,$4.25,$10.66,Website,PayPal,Returned
+SO-2025-10554,555,03/10/2025,2025-03-11,Customer 554,FL,West,SKU4,Product 4,Baby,3,$21.51,$1.08,$10.89,$4.17,$3.87,Amazon,Mastercard,Returned
+SO-2025-10555,556,02/23/2025,2025-02-26,Customer 555,GA,Midwest,SKU5,Product 5,Pets,2,$14.92,$0.75,$6.57,$3.04,$1.79,Instagram,Visa,Cancelled
+SO-2025-10556,557,11/13/2025,2025-11-17,Customer 556,CA,Midwest,SKU6,Product 6,Home & Kitchen,4,$30.74,$3.07,$12.62,$9.67,$7.38,Website,Visa,Cancelled
+SO-2025-10557,558,02/07/2025,2025-02-08,Customer 557,CA,Northeast,SKU7,Product 7,Home & Kitchen,3,$69.67,$6.97,$33.66,$4.23,$12.54,Website,Mastercard,Returned
+SO-2025-10558,559,11/02/2025,2025-11-05,Customer 558,NJ,West,SKU8,Product 8,Baby,2,$39.28,$0.0,$17.7,$1.82,$4.71,Instagram,Visa,Cancelled
+SO-2025-10559,560,02/16/2025,2025-02-17,Customer 559,GA,South,SKU9,Product 9,Wellness,2,$46.52,$6.98,$25.63,$5.42,$5.58,Website,PayPal,Returned
+SO-2025-10560,561,08/29/2025,2025-09-02,Customer 560,GA,Northeast,SKU10,Product 10,Wellness,4,$17.06,$1.71,$9.4,$1.67,$4.09,Instagram,PayPal,Shipped
+SO-2025-10561,562,09/12/2025,2025-09-14,Customer 561,NJ,West,SKU11,Product 11,Wellness,2,$62.54,$6.25,$32.88,$2.65,$7.5,Instagram,PayPal,Shipped
+SO-2025-10562,563,11/20/2025,2025-11-21,Customer 562,OH,Northeast,SKU12,Product 12,Home & Kitchen,4,$36.69,$0.0,$15.63,$1.03,$8.81,Website,Visa,Returned
+SO-2025-10563,564,11/17/2025,2025-11-20,Customer 563,PA,South,SKU13,Product 13,Pets,3,$55.8,$8.37,$33.17,$8.28,$10.04,Website,PayPal,Cancelled
+SO-2025-10564,565,04/14/2025,2025-04-17,Customer 564,CA,Northeast,SKU14,Product 14,Home & Kitchen,3,$74.29,$7.43,$41.65,$6.95,$13.37,Instagram,Mastercard,Shipped
+SO-2025-10565,566,06/16/2025,2025-06-17,Customer 565,OH,South,SKU15,Product 15,Apparel,1,$87.55,$0.0,$35.56,$1.95,$5.25,Website,Visa,Returned
+SO-2025-10566,567,05/21/2025,2025-05-22,Customer 566,PA,Northeast,SKU16,Product 16,Home & Kitchen,2,$40.2,$6.03,$17.34,$7.01,$4.82,Amazon,Mastercard,Returned
+SO-2025-10567,568,03/17/2025,2025-03-18,Customer 567,NY,West,SKU17,Product 17,Baby,4,$60.59,$6.06,$30.89,$3.81,$14.54,Instagram,PayPal,Shipped
+SO-2025-10568,569,09/28/2025,2025-09-29,Customer 568,PA,Northeast,SKU18,Product 18,Pets,4,$80.76,$12.11,$46.95,$0.25,$19.38,Instagram,Visa,Returned
+SO-2025-10569,570,03/19/2025,2025-03-23,Customer 569,IL,South,SKU19,Product 19,Baby,2,$65.43,$3.27,$31.9,$5.59,$7.85,Amazon,PayPal,Cancelled
+SO-2025-10570,571,12/05/2025,2025-12-06,Customer 570,CA,South,SKU20,Product 20,Home & Kitchen,2,$59.18,$0.0,$30.07,$5.05,$7.1,Website,Visa,Shipped
+SO-2025-10571,572,10/10/2025,2025-10-12,Customer 571,AZ,West,SKU21,Product 21,Wellness,4,$87.64,$0.0,$51.91,$5.53,$21.03,Amazon,Mastercard,Shipped
+SO-2025-10572,573,07/23/2025,2025-07-26,Customer 572,FL,Midwest,SKU22,Product 22,Home & Kitchen,4,$21.85,$1.09,$12.27,$3.1,$5.24,Website,PayPal,Cancelled
+SO-2025-10573,574,05/31/2025,2025-06-04,Customer 573,AZ,Midwest,SKU23,Product 23,Home & Kitchen,2,$88.43,$8.84,$44.24,$2.5,$10.61,Instagram,Mastercard,Shipped
+SO-2025-10574,575,04/24/2025,2025-04-28,Customer 574,WA,South,SKU24,Product 24,Apparel,4,$98.37,$9.84,$39.59,$1.63,$23.61,Amazon,PayPal,Shipped
+SO-2025-10575,576,04/23/2025,2025-04-27,Customer 575,FL,West,SKU25,Product 25,Apparel,4,$35.89,$3.59,$15.73,$6.21,$8.61,Website,Visa,Returned
+SO-2025-10576,577,04/07/2025,2025-04-11,Customer 576,AZ,Northeast,SKU26,Product 26,Pets,1,$75.94,$3.8,$39.57,$7.84,$4.56,Website,Mastercard,Returned
+SO-2025-10577,578,11/14/2025,2025-11-17,Customer 577,NY,West,SKU27,Product 27,Pets,2,$48.95,$4.9,$26.21,$0.57,$5.87,Amazon,Mastercard,Cancelled
+SO-2025-10578,579,02/16/2025,2025-02-19,Customer 578,NY,West,SKU28,Product 28,Home & Kitchen,3,$95.0,$0.0,$52.91,$6.32,$17.1,Website,PayPal,Shipped
+SO-2025-10579,580,01/14/2025,2025-01-18,Customer 579,NJ,Midwest,SKU29,Product 29,Baby,3,$47.65,$2.38,$24.79,$2.78,$8.58,Website,Visa,Returned
+SO-2025-10580,581,12/04/2025,2025-12-06,Customer 580,WA,Midwest,SKU30,Product 30,Pets,3,$48.88,$0.0,$19.66,$5.19,$8.8,Amazon,Mastercard,Cancelled
+SO-2025-10581,582,01/17/2025,2025-01-18,Customer 581,OH,Northeast,SKU31,Product 31,Pets,2,$97.36,$0.0,$58.01,$7.38,$11.68,Instagram,PayPal,Shipped
+SO-2025-10582,583,08/07/2025,2025-08-09,Customer 582,GA,Northeast,SKU32,Product 32,Wellness,1,$45.79,$4.58,$23.86,$4.83,$2.75,Website,PayPal,Shipped
+SO-2025-10583,584,07/27/2025,2025-07-29,Customer 583,NY,Midwest,SKU33,Product 33,Apparel,2,$35.87,$1.79,$19.3,$6.04,$4.3,Instagram,PayPal,Cancelled
+SO-2025-10584,585,10/22/2025,2025-10-23,Customer 584,PA,Midwest,SKU34,Product 34,Apparel,3,$16.8,$0.84,$6.95,$0.92,$3.02,Instagram,Visa,Shipped
+SO-2025-10585,586,04/18/2025,2025-04-19,Customer 585,FL,Northeast,SKU35,Product 35,Apparel,3,$66.13,$6.61,$33.77,$0.15,$11.9,Website,Mastercard,Cancelled
+SO-2025-10586,587,11/19/2025,2025-11-23,Customer 586,AZ,Northeast,SKU36,Product 36,Wellness,2,$32.58,$1.63,$15.97,$6.1,$3.91,Instagram,PayPal,Cancelled
+SO-2025-10587,588,08/21/2025,2025-08-25,Customer 587,NY,Northeast,SKU37,Product 37,Home & Kitchen,3,$34.4,$5.16,$13.77,$9.47,$6.19,Instagram,Visa,Cancelled
+SO-2025-10588,589,06/03/2025,2025-06-06,Customer 588,NJ,South,SKU38,Product 38,Apparel,1,$23.93,$2.39,$10.59,$8.83,$1.44,Amazon,PayPal,Cancelled
+SO-2025-10589,590,09/05/2025,2025-09-09,Customer 589,GA,South,SKU39,Product 39,Wellness,2,$66.27,$3.31,$35.52,$6.27,$7.95,Website,PayPal,Returned
+SO-2025-10590,591,10/28/2025,2025-10-29,Customer 590,PA,Northeast,SKU40,Product 40,Wellness,4,$94.26,$0.0,$46.19,$2.2,$22.62,Amazon,Mastercard,Cancelled
+SO-2025-10591,592,03/14/2025,2025-03-18,Customer 591,PA,Midwest,SKU41,Product 41,Pets,1,$65.55,$9.83,$35.04,$6.65,$3.93,Instagram,Visa,Returned
+SO-2025-10592,593,11/26/2025,2025-11-29,Customer 592,CA,Midwest,SKU42,Product 42,Home & Kitchen,2,$76.85,$3.84,$32.16,$0.84,$9.22,Amazon,PayPal,Shipped
+SO-2025-10593,594,09/28/2025,2025-10-01,Customer 593,IL,South,SKU43,Product 43,Wellness,4,$49.1,$0.0,$23.94,$5.89,$11.78,Website,PayPal,Cancelled
+SO-2025-10594,595,09/30/2025,2025-10-01,Customer 594,PA,South,SKU44,Product 44,Pets,3,$67.39,$3.37,$36.4,$0.91,$12.13,Website,Visa,Shipped
+SO-2025-10595,596,09/02/2025,2025-09-05,Customer 595,FL,Northeast,SKU45,Product 45,Apparel,3,$14.5,$2.17,$5.84,$3.56,$2.61,Amazon,Mastercard,Shipped
+SO-2025-10596,597,03/10/2025,2025-03-12,Customer 596,NY,Northeast,SKU46,Product 46,Pets,3,$32.28,$4.84,$15.2,$7.33,$5.81,Instagram,PayPal,Cancelled
+SO-2025-10597,598,11/10/2025,2025-11-13,Customer 597,OH,South,SKU47,Product 47,Wellness,1,$70.56,$3.53,$33.48,$8.38,$4.23,Website,Mastercard,Cancelled
+SO-2025-10598,599,02/07/2025,2025-02-11,Customer 598,IL,Midwest,SKU48,Product 48,Home & Kitchen,3,$84.07,$8.41,$38.39,$2.0,$15.13,Instagram,Mastercard,Shipped
+SO-2025-10599,600,12/24/2025,2025-12-27,Customer 599,WA,Northeast,SKU49,Product 49,Baby,1,$32.8,$3.28,$16.54,$7.71,$1.97,Website,PayPal,Shipped
